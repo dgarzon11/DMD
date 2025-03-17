@@ -1,15 +1,13 @@
 NCTId,final_date,start_date,change,final_value,start_value
-NCT06861270,2025-03-10 07:19:06.139511,,New  Study  Added,,
+NCT06867107,2025-03-17 07:23:22.697955,,New  Study  Added,,
+NCT06868784,2025-03-17 07:23:22.697955,,New  Study  Added,,
+NCT06874166,2025-03-17 07:23:22.697955,,New  Study  Added,,
 NCT00005574,2025-01-20 15:44:21.155205,2025-01-13 20:26:18.141077,Org Study Id,000083,83
-NCT01247207,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Last Update Post Date,2025-01-08,2024-11-22
+NCT01247207,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-11,2025-01-08
 NCT01396239,2025-01-20 15:44:21.155205,2025-01-13 20:26:18.141077,Secondary Id,07-2484,Jul-84
 NCT01834040,2025-01-20 15:44:21.155205,2025-01-13 20:26:18.141077,Org Study Id,00102,102
 NCT01834066,2025-01-20 15:44:21.155205,2025-01-13 20:26:18.141077,Secondary Outcome Measure,-Improvement of daily living scale and baseline in EMG(electromyography),#NAME?
 NCT01834066,2025-01-20 15:44:21.155205,2025-01-13 20:26:18.141077,Org Study Id,00101,101
-NCT01999075,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Has Results,True,False
-NCT01999075,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Primary Outcome Measure,Change in FVC (%-Predicted) From Baseline to 2 Years.,"Relative decline in FVC (%-predicted) over 2 years, measured according to American Thoracic Society (ATS) standards, using the Stanojevic normative equations."
-NCT01999075,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Secondary Outcome Measure,"FVC Decline of 10% of Predicted, Number of Participants Prescribed Outpatient Oral Antibiotic Courses Between Baseline and 2 Years, Health-related Quality of Life From Baseline to 2 Years, Change in Difference Between Assisted and Unassisted Peak Cough Flow (PCF) From Baseline to 2 Years, Change in Maximal Insufflation Capacity (MIC)-Vital Capacity (VC) From Baseline to 2 Years, Change in Maximum Inspiratory Pressures (MIP), From Baseline to 2 Years, Change in Maximal Expiratory Pressures (MEP), From Baseline to 2 Years","Time to FVC decline of 10% of predicted., Total number and duration of outpatient oral antibiotic courses, hospital and ICU admissions for respiratory exacerbations over 2 years, Health-related quality of life over 2 years, Change in unassisted peak cough flow (PCF), maximal insufflation capacity (MIC), maximum inspiratory and expiratory pressures (MIP, MEP), as well as MIC and PCF with LVR, over 2 years"
-NCT01999075,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Last Update Post Date,2025-01-09,2018-12-24
 NCT01999075,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Collaborator Name,Jesse's Journey,Jesse's Journey-The Foundation for Gene and Cell Therapy
 NCT02069756,2025-02-17 07:20:41.747565,2025-02-10 07:20:33.372640,Last Update Post Date,2025-02-10,2023-09-13
 NCT02167217,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Collaborator Name,"Nationwide Children's Hospital, Northwestern University Feinberg School of Medicine, University of Texas Southwestern Medical Center, University of California, Davis, Nemours Children's Hospital","Nationwide Children's Hospital, Northwestern University Feinberg School of Medicine, University of Texas Southwestern Medical Center, University of California, Davis, Nemours Hospital, Orlando, FL"
@@ -17,16 +15,11 @@ NCT02369731,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Last Update Po
 NCT02413450,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Primary Completion Date,2030-08-01,2028-08-01
 NCT02413450,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Completion Date,2031-08-01,2029-08-01
 NCT02413450,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Last Update Post Date,2025-01-31,2024-01-08
-NCT02485938,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Brief Summary,"Male participants with cardiomyopathy secondary to Duchenne muscular dystrophy (DMD) meeting all inclusion and no exclusion criteria will be randomized. All participants will be at least 12 years of age. They will be randomized in a 1:1 manner to either intracoronary infusion of CAP-1002 in three coronary arteries supplying the three major cardiac territories of the left ventricle of the heart (anterior, lateral, inferior/posterior) or usual care. In the active treatment arm, all three major cardiac territories will be treated (infused) during a single procedure in an open-label fashion.","Male subjects with cardiomyopathy secondary to Duchenne muscular dystrophy (DMD) meeting all inclusion and no exclusion criteria will be randomized. All subjects will be at least 12 years of age. They will be randomized in a 1:1 manner to either intracoronary infusion of CAP-1002 in three coronary arteries supplying the three major cardiac territories of the left ventricle of the heart (anterior, lateral, inferior/posterior) or usual care. In the active treatment arm, all three major cardiac territories will be treated (infused) during a single procedure in an open-label fashion."
-NCT02485938,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Has Results,True,False
-NCT02485938,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Primary Outcome Measure,"Number of Participants Experiencing Any of the Adjudicated Events, Number of Participants With Treatment-emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs), Change From Baseline in Clinical Laboratory Parameters (Chloride, Potassium and Sodium) at Month 6 and Month 12, Change From Baseline in Clinical Laboratory Parameter - Albumin at Month 6 and Month 12, Change From Baseline in Clinical Laboratory Parameter - Glucose at Month 6 and Month 12, Change From Baseline in Hematological Parameters (Platelets, White Blood Cells, Basophils, Eosinophils, Lymphocytes, Monocytes and Neutrophils) at Month 6 and Month 12, Change From Baseline in Hematological Parameter - Hemoglobin at Month 6 and Month 12, Change From Baseline in Hematological Parameter - Red Blood Cells at Month 6 and Month 12, Change From Baseline in Vital Signs - Blood Pressure at Month 6 and Month 12, Change From Baseline in Vital Signs - Heart Rate at Month 6 and Month 12, Change From Baseline in Vital Signs - Respiratory Rate at Month 6 and Month 12, Change From Baseline in Vital Signs - Temperature at Month 6 and Month 12, Number of Participants With Clinically Significant Change From Baseline in Cardiac Physical Examinations at Month 6 and Month 12, Change From Baseline in Electrocardiogram (ECG) Parameters (QRS Duration, PR, QT, QTc and QT Interval) at Month 6 and Month 12, Change From Baseline in Electrocardiogram Parameter - Ventricular Rate at Month 6 and Month 12",Safety and tolerability composite of CAP-1002 will be established as described below.
-NCT02485938,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Phase,PHASE2,"PHASE1, PHASE2"
-NCT02485938,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Start Date,2016-01-07,2016-01-01
-NCT02485938,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Primary Completion Date,2017-09-14,2017-09-01
-NCT02485938,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Completion Date,2017-09-14,2017-09-01
-NCT02485938,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Last Update Post Date,2025-01-09,2018-07-20
 NCT02667483,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Collaborator Name,Daiichi Sankyo,"Orphan Disease Treatment Institute Co., Ltd."
 NCT03167255,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Collaborator Name,"Nippon Shinyaku Co., Ltd., Cooperative International Neuromuscular Research Group, Therapeutic Research in Neuromuscular Disorders Solutions","Nippon Shinyaku Co., Ltd., Cooperative International Neuromuscular Research Group, Therapeutic Research in Neuromuscular Disorders Solutions (TRiNDS)"
+NCT03333590,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Overall Status,COMPLETED,ACTIVE_NOT_RECRUITING
+NCT03333590,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Completion Date,2023-12-31,2023-10-01
+NCT03333590,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-13,2023-09-14
 NCT03340675,2025-01-27 07:19:59.044837,2025-01-20 15:44:21.155205,Brief Title,Oral Ifetroban in Subjects with Duchenne Muscular Dystrophy,Oral Ifetroban in Subjects With Duchenne Muscular Dystrophy
 NCT03340675,2025-01-27 07:19:59.044837,2025-01-20 15:44:21.155205,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
 NCT03340675,2025-01-27 07:19:59.044837,2025-01-20 15:44:21.155205,Primary Completion Date,2025-01-31,2024-12-31
@@ -52,8 +45,10 @@ NCT03863119,2025-02-17 07:20:41.747565,2025-02-10 07:20:33.372640,Last Update Po
 NCT03947112,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Brief Title,Physical Activity Level of Norwegian Boys with Duchenne Muscular Dystrophy,Physical Activity Level of Norwegian Boys With Duchenne Muscular Dystrophy
 NCT03947112,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Last Update Post Date,2025-03-05,2021-12-29
 NCT03963453,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Last Update Post Date,2025-03-05,2023-03-01
-NCT04281485,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Completion Date,2039-04-15,2029-04-19
-NCT04281485,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Last Update Post Date,2025-01-13,2024-09-19
+NCT04004065,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Brief Title,"Two-Part Study for Dose Determination of Vesleteplirsen (SRP-5051) (Part A), Then Dose Expansion (Part B) in Participants With Duchenne Muscular Dystrophy Amenable to Exon 51-Skipping Treatment","Two-Part Study for Dose Determination of Vesleteplirsen (SRP-5051) (Part A), Then Dose Efficacy (Part B) in Participants With Duchenne Muscular Dystrophy Amenable to Exon 51-Skipping Treatment"
+NCT04004065,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Overall Status,TERMINATED,ACTIVE_NOT_RECRUITING
+NCT04004065,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Completion Date,2025-02-07,2029-01-31
+NCT04004065,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-10,2024-10-30
 NCT04322357,2025-03-03 07:22:10.748542,2025-02-24 07:20:42.147479,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
 NCT04322357,2025-03-03 07:22:10.748542,2025-02-24 07:20:42.147479,Primary Completion Date,2025-09-05,2025-01-05
 NCT04322357,2025-03-03 07:22:10.748542,2025-02-24 07:20:42.147479,Last Update Post Date,2025-02-27,2024-11-06
@@ -85,6 +80,7 @@ NCT05126758,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Last Update Po
 NCT05195775,2025-03-03 07:22:10.748542,2025-02-24 07:20:42.147479,Primary Completion Date,2025-09-05,2025-01-20
 NCT05195775,2025-03-03 07:22:10.748542,2025-02-24 07:20:42.147479,Completion Date,2025-09-05,2025-01-20
 NCT05195775,2025-03-03 07:22:10.748542,2025-02-24 07:20:42.147479,Last Update Post Date,2025-02-27,2024-11-06
+NCT05257473,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-10,2024-11-04
 NCT05291091,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Last Update Post Date,2025-01-30,2024-12-27
 NCT05291091,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
 NCT05291091,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Last Update Post Date,2025-02-05,2025-01-30
@@ -105,6 +101,11 @@ NCT05558813,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Overall Status
 NCT05558813,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Enrollment Count,0.0,150.0
 NCT05558813,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Last Update Post Date,2025-02-03,2023-10-30
 NCT05641805,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Overall Status,UNKNOWN,RECRUITING
+NCT05670730,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Overall Status,COMPLETED,ACTIVE_NOT_RECRUITING
+NCT05670730,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Enrollment Count,70.0,64.0
+NCT05670730,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Primary Completion Date,2024-11-25,2025-01-01
+NCT05670730,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Completion Date,2024-11-25,2025-01-01
+NCT05670730,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-11,2024-09-23
 NCT05689164,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
 NCT05689164,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Enrollment Count,5.0,250.0
 NCT05689164,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Last Update Post Date,2025-02-07,2024-02-22
@@ -120,6 +121,7 @@ NCT05693142,2025-01-27 07:19:59.044837,2025-01-20 15:44:21.155205,Enrollment Cou
 NCT05693142,2025-01-27 07:19:59.044837,2025-01-20 15:44:21.155205,Primary Completion Date,2026-02-01,2025-12-01
 NCT05693142,2025-01-27 07:19:59.044837,2025-01-20 15:44:21.155205,Completion Date,2028-08-01,2025-12-01
 NCT05693142,2025-01-27 07:19:59.044837,2025-01-20 15:44:21.155205,Last Update Post Date,2025-01-20,2024-07-23
+NCT05693142,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-12,2025-01-20
 NCT05881408,2025-01-27 07:19:59.044837,2025-01-20 15:44:21.155205,Secondary Outcome Measure,"Part 1: Change From Baseline in Percent Predicted Forced Vital Capacity (FVC) at Week 72, Part 1: Change From Baseline in Percent Predicted Peak Expiratory Flow (PEF) at Week 72, Part 1: Quantity of Delandistrogene Moxeparvovec Dystrophin Expression at Week 12 as Measured by Western Blot, Part 1: Change From Baseline in Patient-Reported Outcomes Measurement Information (PROMIS) Score in Upper Extremity Function to Week 72, Number of Participants with a Treatment Emergent Adverse Event (TEAE), Adverse Event of Special Interest (AESI), and Serious Adverse Event (SAE), Part 1 (For Cohort 2 Only): Change From Baseline in the North Star Ambulatory Assessment (NSAA) Total Score at Week 72, Part 1: Change From Baseline in Global Circumferential Strain as Measured by Cardiac MRI at Week 72, Part 1: Change From Baseline in the Middle Domain Score of PUL (Version 2.0) at Week 72","Part 1: Change From Baseline in Percent Predicted Forced Vital Capacity (FVC) at Week 72, Part 1: Change From Baseline in Percent Predicted Peak Expiratory Flow (PEF) at Week 72, Part 1: Quantity of Delandistrogene Moxeparvovec Dystrophin Expression at Week 12 as Measured by Western Blot, Part 1: Change From Baseline in Patient-Reported Outcomes Measurement Information (PROMIS) Score in Upper Extremity Function to Week 72, Number of Participants with a Treatment Emergent Adverse Event (TEAE), Adverse Event of Special Interest (AESI), and Serious Adverse Event (SAE), Part 1 (For Cohort 2 Only): Change From Baseline in the North Star Ambulatory Assessment (NSAA) Total Score at Week 72, Part 1: Change From Baseline in Global Circumferential Strain as Measured by Cardiac MRI at Week 72"
 NCT05881408,2025-01-27 07:19:59.044837,2025-01-20 15:44:21.155205,Last Update Post Date,2025-01-22,2024-12-24
 NCT05881408,2025-02-24 07:20:42.147479,2025-02-17 07:20:41.747565,Last Update Post Date,2025-02-17,2025-01-22
@@ -132,16 +134,10 @@ NCT05967351,2025-01-20 15:44:21.155205,2025-01-13 20:26:18.141077,Last Update Po
 NCT05982119,2025-02-17 07:20:41.747565,2025-02-10 07:20:33.372640,Brief Title,Assessments in Patients with Muscular Pathology and in Control Subjects : the ActiLiège Next Study,Assessments in Patients With Muscular Pathology and in Control Subjects : The ActiLiège Next Study
 NCT05982119,2025-02-17 07:20:41.747565,2025-02-10 07:20:33.372640,Maximum Age,80 Years,100 Years
 NCT05982119,2025-02-17 07:20:41.747565,2025-02-10 07:20:33.372640,Last Update Post Date,2025-02-12,2024-05-30
-NCT06079736,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Brief Summary,"The study consists of 3 periods: A Screening Period (up to 45 days), a Multiple Ascending Dose (MAD) Period (16 weeks), and a Long-Term Extension (LTE) Period (108 weeks).
-The primary purpose of the MAD period is to evaluate the safety and tolerability of multiple ascending intravenous (IV) doses of PGN-EDO51 administered to participants with Duchenne Muscular Dystrophy (DMD). The primary purpose of the LTE period is to evaluate the long-term safety and tolerability of PGN-EDO51 in participants who have completed the MAD period.","The primary purpose of the MAD period is to evaluate the safety and tolerability of multiple ascending intravenous (IV) doses of PGN-EDO51 administered to participants with Duchenne muscular dystrophy (DMD). The primary purpose of the LTE period is to evaluate the long-term safety and tolerability of PGN-EDO51 in participants who have completed the MAD period.
-The study consists of 3 periods: A Screening Period (up to 45 days), a Treatment and Observation Period (16 weeks), and an Extension Period (108 weeks)."
-NCT06079736,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Secondary Outcome Measure,"Plasma pharmacokinetic (PK) parameters (MAD period), Plasma pharmacokinetic (PK) parameters (MAD period), Plasma pharmacokinetic (PK) parameters (MAD period), Plasma pharmacokinetic (PK) parameters (MAD period), PK Plasma levels (LTE period), Skeletal muscle concentration of PGN-EDO51 (MAD period), Dystrophin Levels (MAD period)","Plasma pharmacokinetic (PK) parameters (MAD period), Plasma pharmacokinetic (PK) parameters (MAD period), Plasma pharmacokinetic (PK) parameters (MAD period), Plasma pharmacokinetic (PK) parameters (MAD period), PK Plasma levels (LTE period), Skeletal muscle concentration (MAD period), Dystrophin Levels (MAD period)"
-NCT06079736,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Minimum Age,6 Years,8 Years
-NCT06079736,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Std Age,CHILD,"CHILD, ADULT, OLDER_ADULT"
-NCT06079736,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Enrollment Count,11.0,10.0
-NCT06079736,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Primary Completion Date,2025-11-01,2025-03-01
-NCT06079736,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Completion Date,2027-11-01,2027-05-01
-NCT06079736,2025-01-13 20:26:18.141077,2025-01-06 07:21:11.033402,Last Update Post Date,2025-01-07,2024-05-13
+NCT06066580,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Enrollment Count,260.0,200.0
+NCT06066580,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Primary Completion Date,2029-08-01,2028-03-01
+NCT06066580,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Completion Date,2029-08-01,2028-03-01
+NCT06066580,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-11,2024-12-17
 NCT06079736,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
 NCT06079736,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Enrollment Count,7.0,11.0
 NCT06079736,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Primary Completion Date,2025-04-01,2025-11-01
@@ -162,6 +158,13 @@ NCT06241950,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Completion Dat
 NCT06241950,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Last Update Post Date,2025-03-03,2024-08-13
 NCT06244082,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
 NCT06244082,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Last Update Post Date,2025-02-07,2024-09-23
+NCT06402942,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Brief Title,Gamified Occupational Therapy for Adolescents with Duchenne Muscular Dystrophy,Gamified Occupational Therapy for Adolescents With Duchenne Muscular Dystrophy
+NCT06402942,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Start Date,2025-05-01,2024-09-01
+NCT06402942,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Primary Completion Date,2025-08-21,2025-03-21
+NCT06402942,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Completion Date,2025-12-08,2025-05-08
+NCT06402942,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-12,2024-07-18
+NCT06412328,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Brief Title,Psychoeducation Program for Parents of Children with Duchenne Muscular Dystrophy,Psychoeducation Program for Parents of Children With DMD
+NCT06412328,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-12,2024-05-14
 NCT06445985,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
 NCT06445985,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Enrollment Count,31.0,44.0
 NCT06445985,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Primary Completion Date,2025-04-01,2025-12-12
@@ -169,6 +172,7 @@ NCT06445985,2025-02-03 17:56:47.244600,2025-01-27 07:19:59.044837,Last Update Po
 NCT06450639,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Last Update Post Date,2025-02-05,2025-01-03
 NCT06450639,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Start Date,2025-03-31,2025-02-15
 NCT06450639,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Last Update Post Date,2025-03-07,2025-02-05
+NCT06564974,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-11,2024-12-13
 NCT06597656,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Last Update Post Date,2025-03-03,2024-10-16
 NCT06692426,2025-01-20 15:44:21.155205,2025-01-13 20:26:18.141077,Start Date,2025-05-16,2024-12-16
 NCT06692426,2025-01-20 15:44:21.155205,2025-01-13 20:26:18.141077,Last Update Post Date,2025-01-17,2024-11-18
