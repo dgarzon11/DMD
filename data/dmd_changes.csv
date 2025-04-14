@@ -1,10 +1,10 @@
 NCTId,final_date,start_date,change,final_value,start_value
+NCT06917430,2025-04-14 07:23:54.936232,,New  Study  Added,,
 NCT01247207,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-11,2025-01-08
 NCT01247207,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-11
 NCT01247207,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-11,2025-03-25
 NCT01633866,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2024-12-16
 NCT01633866,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2024-12-16,2025-03-25
-NCT01999075,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Collaborator Name,Jesse's Journey,Jesse's Journey-The Foundation for Gene and Cell Therapy
 NCT01999075,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Results First Post Date,2025-03-25,2025-01-09
 NCT01999075,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-01-09
 NCT01999075,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Results First Post Date,2025-01-09,2025-03-25
@@ -54,7 +54,6 @@ NCT03362502,2025-02-24 07:20:42.147479,2025-02-17 07:20:41.747565,Completion Dat
 NCT03362502,2025-02-24 07:20:42.147479,2025-02-17 07:20:41.747565,Last Update Post Date,2025-02-21,2024-09-20
 NCT03362502,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-21
 NCT03362502,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-21,2025-03-25
-NCT03368742,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Last Update Post Date,2025-02-06,2025-01-27
 NCT03368742,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-06
 NCT03368742,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-06,2025-03-25
 NCT03406780,2025-03-03 07:22:10.748542,2025-02-24 07:20:42.147479,Brief Summary,HOPE-2 is a double-blind clinical trial evaluating the safety and efficacy of a cell therapy called CAP-1002 in study participants with Duchenne Muscular Dystrophy (DMD). Non-ambulatory and ambulatory boys and young men who meet eligibility criteria will be randomly assigned to receive either CAP-1002 or placebo every 3 months for a total of 4 doses during a 12-month period.,HOPE-2 is a double-blind clinical trial evaluating the safety and efficacy of a cell therapy called CAP-1002 in study participants with Duchenne muscular dystrophy (DMD). Non-ambulatory and ambulatory boys and young men who meet eligibility criteria will be randomly assigned to receive either CAP-1002 or placebo every 3 months for a total of 4 doses during a 12-month period.
@@ -71,6 +70,9 @@ NCT03406780,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Po
 NCT03655223,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Secondary Id,HHSN27500003,"U01TR001792-01, HHSN27500003"
 NCT03655223,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Primary Completion Date,2025-11-30,2024-11-30
 NCT03655223,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-04-04,2024-03-27
+NCT03836300,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Primary Completion Date,2026-06-30,2024-12-31
+NCT03836300,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Completion Date,2026-12-31,2025-06-30
+NCT03836300,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Last Update Post Date,2025-04-06,2024-05-01
 NCT03863119,2025-02-17 07:20:41.747565,2025-02-10 07:20:33.372640,Overall Status,APPROVED_FOR_MARKETING,AVAILABLE
 NCT03863119,2025-02-17 07:20:41.747565,2025-02-10 07:20:33.372640,Last Update Post Date,2025-02-10,2023-11-09
 NCT03863119,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-10
@@ -121,15 +123,6 @@ NCT04906460,2025-02-24 07:20:42.147479,2025-02-17 07:20:41.747565,Completion Dat
 NCT04906460,2025-02-24 07:20:42.147479,2025-02-17 07:20:41.747565,Last Update Post Date,2025-02-19,2024-02-28
 NCT04906460,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-19
 NCT04906460,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-19,2025-03-25
-NCT05126758,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Brief Title,A Study of Deramiocel (CAP-1002) in Ambulatory and Non-Ambulatory Patients With Duchenne Muscular Dystrophy,A Study of CAP-1002 in Ambulatory and Non-Ambulatory Patients With Duchenne Muscular Dystrophy
-NCT05126758,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
-NCT05126758,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Brief Summary,"HOPE-3 is a two cohort, Phase 3, multi-center, randomized, double-blind, placebo-controlled clinical trial evaluating the efficacy and safety of a cell therapy called deramiocel (CAP-1002) in study participants with Duchenne muscular dystrophy (DMD) and impaired skeletal muscle function. Non-ambulatory and ambulatory boys and young men who meet eligibility criteria will be randomly assigned to receive either deramiocel or placebo every 3 months for a total of 4 doses during the first 12 months of the study. All participants will be eligible to receive 4 doses of deramiocel for an additional 12 months as part of an open-label extended assessment period. After completion of the first open-label extension (Months 12-24), subjects who have completed Month 24 are eligible to continue onto a Long-Term Open-Label Extension period that will provide treatment with deramiocel until commercial availability, or until sponsor's decision to terminate the trial, or the participant withdraws consent.","HOPE-3 is a two cohort, Phase 3, multi-center, randomized, double-blind, placebo-controlled clinical trial evaluating the efficacy and safety of a cell therapy called CAP-1002 in study participants with Duchenne muscular dystrophy (DMD) and impaired skeletal muscle function. Non-ambulatory and ambulatory boys and young men who meet eligibility criteria will be randomly assigned to receive either CAP-1002 or placebo every 3 months for a total of 4 doses during the first 12-months of the study. All participants will be eligible to receive 4 doses of CAP-1002 for an additional 12 months as part of an open-label extended assessment period."
-NCT05126758,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Intervention Name,"Deramiocel (CAP-1002), Placebo","CAP-1002, Placebo"
-NCT05126758,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Secondary Outcome Measure,"Change in cardiac muscle function and structure by assessment of left ventricular ejection fraction, Change in cardiac muscle function and structure by assessment of left ventricular end-systolic volume, Change in cardiac muscle function and structure by assessment of left ventricular end-diastolic volume, Change in elbow and distal level upper limb function, Change in Global Statistical Test (Total GST) combining upper limb function, cardiac muscle function, and patient reported measure of disease severity, Change in hand-to-mouth function in the context of functional eating, Change in hand-to-mouth function, Number of patients with total loss of hand-to-mouth function, Changes in patient-reported upper limb function, Changes in cardiac inflammation biomarker, creatine kinase MB isoenzyme [CK-MB]","Change in cardiac muscle function and structure by assessment of left ventricular ejection fraction, Change in cardiac muscle function and structure by assessment of left ventricular end-systolic volume, Change in cardiac muscle function and structure by assessment of left ventricular end-diastolic volume, Change in elbow and distal level upper limb function, Change in hand-to-mouth function in the context of functional eating, Change in hand-to-mouth function, Number of patients with total loss of hand-to-mouth function, Changes in patient-reported upper limb function, Changes in cardiac inflammation biomarker, creatine kinase MB isoenzyme [CK-MB], Evaluation of disease modifying effects of CAP-1002"
-NCT05126758,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Enrollment Count,104.0,102.0
-NCT05126758,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Primary Completion Date,2025-12-01,2024-12-01
-NCT05126758,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Completion Date,2027-12-01,2026-12-01
-NCT05126758,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Last Update Post Date,2025-02-04,2024-07-23
 NCT05126758,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-04
 NCT05126758,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-04,2025-03-25
 NCT05166109,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2024-12-27
@@ -142,11 +135,12 @@ NCT05195775,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Po
 NCT05257473,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-10,2024-11-04
 NCT05257473,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-10
 NCT05257473,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-10,2025-03-25
+NCT05257473,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
+NCT05257473,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Primary Completion Date,2026-05-01,2025-05-01
+NCT05257473,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Last Update Post Date,2025-04-06,2025-03-10
 NCT05280730,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Primary Completion Date,2025-04-30,2024-12-01
 NCT05280730,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Completion Date,2025-04-30,2024-12-01
 NCT05280730,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-26,2024-04-16
-NCT05291091,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
-NCT05291091,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Last Update Post Date,2025-02-05,2025-01-30
 NCT05291091,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Enrollment Count,175.0,170.0
 NCT05291091,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Primary Completion Date,2026-08-01,2026-06-01
 NCT05291091,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Completion Date,2026-08-01,2026-06-01
@@ -177,9 +171,9 @@ NCT05670730,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Completion Dat
 NCT05670730,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-11,2024-09-23
 NCT05670730,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-11
 NCT05670730,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-11,2025-03-25
-NCT05689164,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
-NCT05689164,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Enrollment Count,5.0,250.0
-NCT05689164,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Last Update Post Date,2025-02-07,2024-02-22
+NCT05683379,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Primary Completion Date,2026-09-01,2024-12-01
+NCT05683379,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Completion Date,2026-09-01,2024-12-01
+NCT05683379,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Last Update Post Date,2025-04-06,2024-07-18
 NCT05689164,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-07
 NCT05689164,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-07,2025-03-25
 NCT05693142,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-12,2025-01-20
@@ -226,7 +220,6 @@ NCT06128564,2025-02-24 07:20:42.147479,2025-02-17 07:20:41.747565,Last Update Po
 NCT06128564,2025-03-24 07:24:20.951620,2025-03-17 07:23:22.697955,Last Update Post Date,2025-03-17,2025-02-17
 NCT06128564,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-17
 NCT06128564,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-17,2025-03-25
-NCT06138639,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Last Update Post Date,2025-02-06,2025-01-17
 NCT06138639,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-26,2025-02-06
 NCT06224660,2025-03-03 07:22:10.748542,2025-02-24 07:20:42.147479,Overall Status,RECRUITING,NOT_YET_RECRUITING
 NCT06224660,2025-03-03 07:22:10.748542,2025-02-24 07:20:42.147479,Start Date,2024-10-02,2024-03-01
@@ -240,8 +233,6 @@ NCT06241950,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Completion Dat
 NCT06241950,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Last Update Post Date,2025-03-03,2024-08-13
 NCT06241950,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-03
 NCT06241950,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-03,2025-03-25
-NCT06244082,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
-NCT06244082,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Last Update Post Date,2025-02-07,2024-09-23
 NCT06244082,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-07
 NCT06244082,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-07,2025-03-25
 NCT06363526,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Brief Title,Effectiveness of 5-week Digital Respiratory Practice in Children With Duchenne Muscular Dystrophy and Becker Muscular Dystrophy.,Effectiveness of 5-week Digital Respiratory Practice in a Group of Children With Duchenne Muscular Dystrophy and Becker Muscular Dystrophy.
@@ -269,11 +260,12 @@ NCT06412328,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Completion Dat
 NCT06412328,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-28,2025-03-12
 NCT06445985,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-01-30
 NCT06445985,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-01-30,2025-03-25
-NCT06450639,2025-02-10 07:20:33.372640,2025-02-03 17:56:47.244600,Last Update Post Date,2025-02-05,2025-01-03
 NCT06450639,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Start Date,2025-03-31,2025-02-15
 NCT06450639,2025-03-10 07:19:06.139511,2025-03-03 07:22:10.748542,Last Update Post Date,2025-03-07,2025-02-05
 NCT06450639,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-07
 NCT06450639,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-07,2025-03-25
+NCT06450639,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Start Date,2025-04-04,2025-03-31
+NCT06450639,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Last Update Post Date,2025-04-08,2025-03-07
 NCT06564974,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-11,2024-12-13
 NCT06564974,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-11
 NCT06564974,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Brief Title,Registry Study to Observe Long-term Safety of Vamorolone (AGAMREE®) in Patients With Duchenne Muscular Dystrophy.,Registry Study to Observe Long-term Safety of Vamorolone (AGAMREE®) in Patients with Duchenne Muscular Dystrophy.
@@ -307,6 +299,9 @@ NCT06817382,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Study First Po
 NCT06817382,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-10
 NCT06817382,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Study First Post Date,2025-02-10,2025-03-25
 NCT06817382,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-10,2025-03-25
+NCT06817382,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Overall Status,RECRUITING,NOT_YET_RECRUITING
+NCT06817382,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Start Date,2025-05-31,2025-02-07
+NCT06817382,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Last Update Post Date,2025-04-11,2025-02-10
 NCT06833489,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Study First Post Date,2025-03-25,2025-02-18
 NCT06833489,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-18
 NCT06833489,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Study First Post Date,2025-02-18,2025-03-25
