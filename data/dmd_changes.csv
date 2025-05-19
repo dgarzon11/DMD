@@ -1,5 +1,4 @@
 NCTId,final_date,start_date,change,final_value,start_value
-NCT01247207,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-11,2025-01-08
 NCT01247207,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-11
 NCT01247207,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-11,2025-03-25
 NCT01247207,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Last Update Post Date,2025-04-17,2025-03-11
@@ -25,6 +24,7 @@ NCT02470962,2025-03-24 07:24:20.951620,2025-03-17 07:23:22.697955,Completion Dat
 NCT02470962,2025-03-24 07:24:20.951620,2025-03-17 07:23:22.697955,Last Update Post Date,2025-03-20,2019-07-12
 NCT02470962,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-20
 NCT02470962,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-20,2025-03-25
+NCT02470962,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,Cardiac Involvement in Patients With Duchenne/Becker Muscular Dystrophy,Cardiac Involvement in Patients with Duchenne/Becker Muscular Dystrophy
 NCT02484560,2025-03-24 07:24:20.951620,2025-03-17 07:23:22.697955,Collaborator Name,Istinye University,"Istınye University, Cukurova University, Yıldırım Beyazıt University, Gaziantep Deva Hospital, Gaziantep Public Hospital"
 NCT02485938,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Results First Post Date,2025-03-25,2025-01-09
 NCT02485938,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-01-09
@@ -38,13 +38,12 @@ NCT03057002,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Enrollment Cou
 NCT03057002,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Primary Completion Date,2023-05-17,2025-03-08
 NCT03057002,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Completion Date,2023-05-17,2025-03-08
 NCT03057002,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-26,2024-12-16
-NCT03333590,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Overall Status,COMPLETED,ACTIVE_NOT_RECRUITING
-NCT03333590,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Completion Date,2023-12-31,2023-10-01
-NCT03333590,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-13,2023-09-14
+NCT03057002,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Condition,"Cardiomyopathy, Hypertrophic, Dilated Cardiomyopathy, Duchenne Muscular Dystrophy, Cardiac Sarcoidosis, Becker Muscular Dystrophy, Heart Failure With Preserved Ejection Fraction, Heart Failure With Reduced Ejection Fraction","Cardiomyopathy, Hypertrophic, Dilated Cardiomyopathy, Duchenne Muscular Dystrophy, Cardiac Sarcoidosis, Becker Muscular Dystrophy, Heart Failure with Preserved Ejection Fraction, Heart Failure with Reduced Ejection Fraction"
 NCT03333590,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-13
 NCT03333590,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-13,2025-03-25
 NCT03340675,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-12
 NCT03340675,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-12,2025-03-25
+NCT03340675,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,Oral Ifetroban in Subjects With Duchenne Muscular Dystrophy,Oral Ifetroban in Subjects with Duchenne Muscular Dystrophy
 NCT03362502,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-21
 NCT03362502,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-21,2025-03-25
 NCT03362502,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Completion Date,2025-08-29,2025-05-30
@@ -79,10 +78,6 @@ NCT03963453,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Po
 NCT03963453,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-05,2025-03-25
 NCT03992430,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2024-12-20
 NCT03992430,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2024-12-20,2025-03-25
-NCT04004065,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Brief Title,"Two-Part Study for Dose Determination of Vesleteplirsen (SRP-5051) (Part A), Then Dose Expansion (Part B) in Participants With Duchenne Muscular Dystrophy Amenable to Exon 51-Skipping Treatment","Two-Part Study for Dose Determination of Vesleteplirsen (SRP-5051) (Part A), Then Dose Efficacy (Part B) in Participants With Duchenne Muscular Dystrophy Amenable to Exon 51-Skipping Treatment"
-NCT04004065,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Overall Status,TERMINATED,ACTIVE_NOT_RECRUITING
-NCT04004065,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Completion Date,2025-02-07,2029-01-31
-NCT04004065,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-10,2024-10-30
 NCT04004065,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-10
 NCT04004065,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-10,2025-03-25
 NCT04281485,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-01-13
@@ -97,13 +92,13 @@ NCT04529707,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Po
 NCT04529707,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-07,2025-03-25
 NCT04906460,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-19
 NCT04906460,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-19,2025-03-25
+NCT04906460,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,Open-label Study of WVE-N531 in Patients With Duchenne Muscular Dystrophy (FORWARD-53),Open-label Study of WVE-N531 in Patients with Duchenne Muscular Dystrophy (FORWARD-53)
 NCT05126758,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-04
 NCT05126758,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-04,2025-03-25
 NCT05166109,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2024-12-27
 NCT05166109,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2024-12-27,2025-03-25
 NCT05195775,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-27
 NCT05195775,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-27,2025-03-25
-NCT05257473,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-10,2024-11-04
 NCT05257473,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-10
 NCT05257473,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-10,2025-03-25
 NCT05257473,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
@@ -122,17 +117,14 @@ NCT05429372,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Po
 NCT05429372,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Primary Completion Date,2025-06-30,2025-05-30
 NCT05429372,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Completion Date,2025-06-30,2029-01-03
 NCT05429372,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Last Update Post Date,2025-04-18,2025-03-04
+NCT05429372,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-15,2025-04-18
 NCT05524883,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-01-22
 NCT05524883,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-01-22,2025-03-25
+NCT05524883,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,"Safety, Tolerability, Pharmacodynamic, Efficacy, and Pharmacokinetic Study of DYNE-251 in Participants With Duchenne Muscular Dystrophy Amenable to Exon 51 Skipping","Safety, Tolerability, Pharmacodynamic, Efficacy, and Pharmacokinetic Study of DYNE-251 in Participants with Duchenne Muscular Dystrophy Amenable to Exon 51 Skipping"
 NCT05540860,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2024-12-27
 NCT05540860,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2024-12-27,2025-03-25
 NCT05558813,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-03
 NCT05558813,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-03,2025-03-25
-NCT05670730,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Overall Status,COMPLETED,ACTIVE_NOT_RECRUITING
-NCT05670730,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Enrollment Count,70.0,64.0
-NCT05670730,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Primary Completion Date,2024-11-25,2025-01-01
-NCT05670730,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Completion Date,2024-11-25,2025-01-01
-NCT05670730,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-11,2024-09-23
 NCT05670730,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-11
 NCT05670730,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-11,2025-03-25
 NCT05683379,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Primary Completion Date,2026-09-01,2024-12-01
@@ -144,9 +136,11 @@ NCT05689164,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Enrollment Cou
 NCT05689164,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Primary Completion Date,2025-08-29,2039-05-15
 NCT05689164,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Completion Date,2025-08-29,2039-05-15
 NCT05689164,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Last Update Post Date,2025-04-18,2025-02-07
-NCT05693142,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-12,2025-01-20
+NCT05689164,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-13,2025-04-18
 NCT05693142,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-12
 NCT05693142,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-12,2025-03-25
+NCT05693142,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,AFFINITY DUCHENNE: RGX-202 Gene Therapy in Participants With Duchenne Muscular Dystrophy (DMD),AFFINITY DUCHENNE: RGX-202 Gene Therapy in Participants with Duchenne Muscular Dystrophy (DMD)
+NCT05693142,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-13,2025-03-12
 NCT05833633,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Overall Status,UNKNOWN,RECRUITING
 NCT05849688,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Overall Status,UNKNOWN,NOT_YET_RECRUITING
 NCT05881408,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-17
@@ -154,8 +148,10 @@ NCT05881408,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Po
 NCT05881408,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Last Update Post Date,2025-04-15,2025-02-17
 NCT05933057,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-27,2024-12-09
 NCT05933057,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Last Update Post Date,2025-04-30,2025-03-27
+NCT05933057,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-11,2025-04-30
 NCT05938023,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-03
 NCT05938023,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-03,2025-03-25
+NCT05938023,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,A Study of ATL1102 or Placebo in Participants With Non-ambulatory Duchenne Muscular Dystrophy,A Study of ATL1102 or Placebo in Participants with Non-ambulatory Duchenne Muscular Dystrophy
 NCT05967351,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-01-17
 NCT05967351,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-01-17,2025-03-25
 NCT05982119,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-12
@@ -169,10 +165,6 @@ NCT06054971,2025-03-24 07:24:20.951620,2025-03-17 07:23:22.697955,Completion Dat
 NCT06054971,2025-03-24 07:24:20.951620,2025-03-17 07:23:22.697955,Last Update Post Date,2025-03-21,2023-11-22
 NCT06054971,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-21
 NCT06054971,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-21,2025-03-25
-NCT06066580,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Enrollment Count,260.0,200.0
-NCT06066580,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Primary Completion Date,2029-08-01,2028-03-01
-NCT06066580,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Completion Date,2029-08-01,2028-03-01
-NCT06066580,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-11,2024-12-17
 NCT06066580,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-11
 NCT06066580,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-11,2025-03-25
 NCT06079736,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-04
@@ -186,6 +178,7 @@ NCT06128564,2025-03-24 07:24:20.951620,2025-03-17 07:23:22.697955,Last Update Po
 NCT06128564,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-17
 NCT06128564,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-17,2025-03-25
 NCT06128564,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Last Update Post Date,2025-04-13,2025-03-17
+NCT06128564,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-13,2025-04-13
 NCT06138639,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-26,2025-02-06
 NCT06138639,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Last Update Post Date,2025-04-15,2025-03-26
 NCT06224660,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-27
@@ -194,6 +187,14 @@ NCT06241950,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Po
 NCT06241950,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-03,2025-03-25
 NCT06244082,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-02-07
 NCT06244082,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-02-07,2025-03-25
+NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,Ph2 Open-label Study of AOC 1044 in Duchenne Muscular Dystrophy Participants With Mutations Amenable to Exon44 Skipping,Ph2 Open-label Study of AOC 1044 in Duchenne Muscular Dystrophy Participants with Mutations Amenable to Exon44 Skipping
+NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Summary,AOC 1044-CS2 (EXPLORE44-OLE) is an Open-label Study to Evaluate the Long-Term Safety and Tolerability of AOC 1044 Administered Intravenously to DMD Participants with Mutations Amenable to Exon 44 Skipping.,AOC 1044-CS2 (EXPLORE44-OLE) is an Open-label Study to Evaluate the Pharmacodynamics and Long-Term Safety and Tolerability of AOC 1044 Administered Intravenously to DMD Participants with Mutations Amenable to Exon 44 Skipping.
+NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Primary Outcome Measure,Incidence of Treatment Emergent Adverse Events (TEAEs),Change from baseline to biopsy visit in dystrophin protein level as measured in skeletal muscle by western blot
+NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Secondary Outcome Measure,"Change from baseline in serum creatine kinase concentration at Study Weeks 24, 48, and 102","Incidence of treatment emergent adverse events (TEAEs), Change from baseline to biopsy visit in dystrophin protein levels as measured in skeletal muscle by mass spectrometry, Change from baseline to biopsy visit in exon skipping as measured in skeletal muscle"
+NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Enrollment Count,39.0,35.0
+NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Primary Completion Date,2027-04-30,2025-12-31
+NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Completion Date,2027-07-31,2026-12-31
+NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-14,2025-02-07
 NCT06270719,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Last Update Post Date,2025-05-02,2024-12-02
 NCT06363526,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Brief Title,Effectiveness of 5-week Digital Respiratory Practice in Children With Duchenne Muscular Dystrophy and Becker Muscular Dystrophy.,Effectiveness of 5-week Digital Respiratory Practice in a Group of Children With Duchenne Muscular Dystrophy and Becker Muscular Dystrophy.
 NCT06363526,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Overall Status,ENROLLING_BY_INVITATION,NOT_YET_RECRUITING
@@ -205,15 +206,8 @@ NCT06363526,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Po
 NCT06363526,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Brief Title,Effectiveness of 5-week Digital Respiratory Practice in Children With Duchenne and Becker Muscular Dystrophies.,Effectiveness of 5-week Digital Respiratory Practice in Children With Duchenne Muscular Dystrophy and Becker Muscular Dystrophy.
 NCT06363526,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Secondary Outcome Measure,"Perform an anthropometric study of the patient's characteristics, taking into account weight; and also a general physical examination., Perform an anthropometric study of the patient's characteristics, taking into account age., Perform an anthropometric study of the patient's characteristics, taking into account height., Perform an anthropometric study of the patient's characteristics, taking into account sex., Examine changes in forced expiratory pressure, Analyze changes in maximum inspiratory pressure (MIP) and maximum expiratory pressure (MEP)., Check if there are changes in the sniff nasal inspiratory pressure (SNIP), Evaluate the fatigue in patients using an EPInfant test., Evaluate the quality of life of patients using a scale called ""Kindscreen-52""., North Star Ambulatory Assessment o NSAA","Perform an anthropometric study of the patient's characteristics, taking into account weight; and also a general physical examination., Perform an anthropometric study of the patient's characteristics, taking into account age., Perform an anthropometric study of the patient's characteristics, taking into account height., Perform an anthropometric study of the patient's characteristics, taking into account sex., Examine changes in forced expiratory pressure, Analyze changes in maximum inspiratory pressure (MIP) and maximum expiratory pressure (MEP)., Check if there are changes in the sniff nasal inspiratory pressure (SNIP), Evaluate the fatigue in patients using an EPInfant test., Evaluate the quality of life of patients using a scale called ""Kindscreen-52""., NSAA o North Star Ambulatory Assessment"
 NCT06363526,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-04-01,2025-03-26
-NCT06402942,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Brief Title,Gamified Occupational Therapy for Adolescents with Duchenne Muscular Dystrophy,Gamified Occupational Therapy for Adolescents With Duchenne Muscular Dystrophy
-NCT06402942,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Start Date,2025-05-01,2024-09-01
-NCT06402942,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Primary Completion Date,2025-08-21,2025-03-21
-NCT06402942,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Completion Date,2025-12-08,2025-05-08
-NCT06402942,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-12,2024-07-18
 NCT06402942,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-12
 NCT06402942,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-12,2025-03-25
-NCT06412328,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Brief Title,Psychoeducation Program for Parents of Children with Duchenne Muscular Dystrophy,Psychoeducation Program for Parents of Children With DMD
-NCT06412328,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-12,2024-05-14
 NCT06412328,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Overall Status,ENROLLING_BY_INVITATION,COMPLETED
 NCT06412328,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Primary Completion Date,2024-08-29,2023-07-29
 NCT06412328,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Completion Date,2026-02-28,2023-08-29
@@ -226,10 +220,16 @@ NCT06450639,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Start Date,202
 NCT06450639,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Last Update Post Date,2025-04-08,2025-03-07
 NCT06450639,2025-04-28 07:50:22.409319,2025-04-21 07:23:14.983649,Last Update Post Date,2025-04-22,2025-04-08
 NCT06450639,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Last Update Post Date,2025-04-30,2025-04-22
-NCT06564974,2025-03-17 07:23:22.697955,2025-03-10 07:19:06.139511,Last Update Post Date,2025-03-11,2024-12-13
+NCT06491927,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-13,2024-07-09
 NCT06564974,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-11
 NCT06564974,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Brief Title,Registry Study to Observe Long-term Safety of Vamorolone (AGAMREE®) in Patients With Duchenne Muscular Dystrophy.,Registry Study to Observe Long-term Safety of Vamorolone (AGAMREE®) in Patients with Duchenne Muscular Dystrophy.
 NCT06564974,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-04-02,2025-03-25
+NCT06565208,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,First in Human SAD/MAD Safety and PK Study With Adult DMD Safety and PK Cohort,First in Human SAD/MAD Safety and PK Study with Adult DMD Safety and PK Cohort
+NCT06565208,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Overall Status,COMPLETED,RECRUITING
+NCT06565208,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Enrollment Count,77.0,82.0
+NCT06565208,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Primary Completion Date,2025-04-28,2025-03-01
+NCT06565208,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Completion Date,2025-04-28,2025-03-01
+NCT06565208,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-15,2024-11-08
 NCT06597656,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-03
 NCT06597656,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-03,2025-03-25
 NCT06641895,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Brief Title,Evaluation of the Safety and Efficacy of BBM-D101 to Treat Patients with Duchenne Muscular Dystrophy,Evaluation of the Safety and Efficacy of BBM-D101 to Treat Patients With Duchenne Muscular Dystrophy
@@ -286,6 +286,11 @@ NCT06867107,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Study First Po
 NCT06867107,2025-03-31 07:23:41.987076,2025-03-24 07:24:20.951620,Last Update Post Date,2025-03-25,2025-03-10
 NCT06867107,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Study First Post Date,2025-03-10,2025-03-25
 NCT06867107,2025-04-07 07:25:06.872251,2025-03-31 07:23:41.987076,Last Update Post Date,2025-03-10,2025-03-25
+NCT06867107,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Primary Outcome Measure,Treatment emergent adverse events,Safety and tolerability
+NCT06867107,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Start Date,2025-07-15,2025-05-01
+NCT06867107,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Primary Completion Date,2026-08-30,2026-06-30
+NCT06867107,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Completion Date,2026-08-30,2026-06-30
+NCT06867107,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-15,2025-03-10
 NCT06868784,2025-03-24 07:24:20.951620,2025-03-17 07:23:22.697955,Overall Status,ENROLLING_BY_INVITATION,NOT_YET_RECRUITING
 NCT06868784,2025-03-24 07:24:20.951620,2025-03-17 07:23:22.697955,Brief Summary,"The effects of Duchenne muscular dystrophy and its treatments on executive functions and occupational performance are under-mentioned in the literature. The researches believe that developmental and cognitive research is needed to identify interventions for children with DMD to identify and adapt to both individual and social environments, including self-care, productivity and leisure activities. Therefore, the aim of this study was to examine executive functions and occupational performance in children with DMD and compare them with healthy controls.","The effects of Duchenne muscular dystrophy and its treatments on executive functions and oculomotor performance are under-mentioned in the literature. We believe that developmental and cognitive research is needed to identify interventions for children with DMD to identify and adapt to both individual and social environments, including self-care, productivity and leisure activities. Therefore, the aim of our study was to examine executive functions and oculomotor performance in children with DMD and compare them with healthy controls."
 NCT06868784,2025-03-24 07:24:20.951620,2025-03-17 07:23:22.697955,Last Update Post Date,2025-03-17,2025-03-11
