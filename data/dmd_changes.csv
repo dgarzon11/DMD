@@ -1,4 +1,5 @@
 NCTId,final_date,start_date,change,final_value,start_value
+NCT07015632,2025-06-16 07:26:10.155389,,New  Study  Added,,
 NCT01247207,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Last Update Post Date,2025-04-17,2025-03-11
 NCT02470962,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,Cardiac Involvement in Patients With Duchenne/Becker Muscular Dystrophy,Cardiac Involvement in Patients with Duchenne/Becker Muscular Dystrophy
 NCT03057002,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Condition,"Cardiomyopathy, Hypertrophic, Dilated Cardiomyopathy, Duchenne Muscular Dystrophy, Cardiac Sarcoidosis, Becker Muscular Dystrophy, Heart Failure With Preserved Ejection Fraction, Heart Failure With Reduced Ejection Fraction","Cardiomyopathy, Hypertrophic, Dilated Cardiomyopathy, Duchenne Muscular Dystrophy, Cardiac Sarcoidosis, Becker Muscular Dystrophy, Heart Failure with Preserved Ejection Fraction, Heart Failure with Reduced Ejection Fraction"
@@ -16,13 +17,15 @@ NCT03373968,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Primary Comple
 NCT03373968,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Completion Date,2029-12-01,2025-12-01
 NCT03373968,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Last Update Post Date,2025-04-30,2023-11-07
 NCT03406780,2025-06-02 07:25:06.336978,2025-05-26 07:33:12.190880,Last Update Post Date,2025-05-28,2025-02-24
-NCT03836300,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Primary Completion Date,2026-06-30,2024-12-31
-NCT03836300,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Completion Date,2026-12-31,2025-06-30
-NCT03836300,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Last Update Post Date,2025-04-06,2024-05-01
+NCT04281485,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Has Results,True,False
+NCT04281485,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Primary Outcome Measure,Change From Baseline in North Star Ambulatory Assessment (NSAA) Total Score at Week 52,Change from Baseline in North Star Ambulatory Assessment (NSAA)
+NCT04281485,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Secondary Outcome Measure,"Change From Baseline in Percent Normal Dystrophin Expression Level in Muscle Biopsies by Liquid Chromatography Mass Spectrometry (LC-MS) Based on LLQV Peptide at Week 52, Change From Baseline in Percent of Muscle Fibers Expressing Mini-Dystrophin in Muscle Biopsies by Immunofluorescence at Week 52, Change From Baseline in Serum Creatine Kinase (CK) Concentration at Week 52, Least Square Mean of Proportion of Skills Gained Based on the Individual Items of the NSAA at Week 52, Least Square Mean of Proportion of Skills Either Improved or Maintained Based on the Individual Items of the NSAA at Week 52, Change From Baseline in 10 Meter Run/Walk Velocity at Week 52, Change From Baseline in Rise From Floor Velocity at Week 52, Change From Baseline in Modified Pediatric Outcome Data Collection Instrument (PODCI)- Transfer and Basic Mobility Core Scale at Week 52, Change From Baseline in Modified PODCI- Sports and Physical Functioning Core Scale at Week 52","Change from Baseline in mini-dystrophin expression level in muscle, Change from Baseline in distribution of mini-dystrophin expression in the muscle, Change from Baseline in serum creatine kinase (CK), Number of skills gained based on the individual items of the NSAA., Number of skills improved or maintained based on the individual items of the NSAA, Change from Baseline in the 10-meter run/walk test velocity, Change from Baseline in the rise from floor velocity, Change from Baseline in the Modified Pediatric Outcomes Data Collection Instrument (PODCI): Transfer and Basic Mobility Core Scale, Change from Baseline in the Modified Pediatric Outcomes Data Collection Instrucment (PODCI): Sports and Physical Functioning Core Scale"
+NCT04281485,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Enrollment Count,114.0,122.0
+NCT04281485,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Last Update Post Date,2025-06-08,2025-01-13
 NCT04906460,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,Open-label Study of WVE-N531 in Patients With Duchenne Muscular Dystrophy (FORWARD-53),Open-label Study of WVE-N531 in Patients with Duchenne Muscular Dystrophy (FORWARD-53)
-NCT05257473,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
-NCT05257473,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Primary Completion Date,2026-05-01,2025-05-01
-NCT05257473,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Last Update Post Date,2025-04-06,2025-03-10
+NCT05126758,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Secondary Outcome Measure,"Change in cardiac muscle function and structure by assessment of left ventricular ejection fraction, Change in cardiac muscle function and structure by assessment of left ventricular end-systolic volume, Change in cardiac muscle function and structure by assessment of left ventricular end-diastolic volume, Change in elbow and distal level upper limb function, Change in Global Statistical Test (Total GST) combining upper limb function, cardiac muscle function, and patient reported measure of disease severity, Changes in cardiac inflammation biomarker, creatine kinase MB isoenzyme [CK-MB], Change in hand-to-mouth function in the context of functional eating, Change in hand-to-mouth function, Number of patients with total loss of hand-to-mouth function, Changes in patient-reported upper limb function","Change in cardiac muscle function and structure by assessment of left ventricular ejection fraction, Change in cardiac muscle function and structure by assessment of left ventricular end-systolic volume, Change in cardiac muscle function and structure by assessment of left ventricular end-diastolic volume, Change in elbow and distal level upper limb function, Change in Global Statistical Test (Total GST) combining upper limb function, cardiac muscle function, and patient reported measure of disease severity, Change in hand-to-mouth function in the context of functional eating, Change in hand-to-mouth function, Number of patients with total loss of hand-to-mouth function, Changes in patient-reported upper limb function, Changes in cardiac inflammation biomarker, creatine kinase MB isoenzyme [CK-MB]"
+NCT05126758,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Last Update Post Date,2025-06-13,2025-02-04
+NCT05257473,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Last Update Post Date,2025-06-08,2025-04-06
 NCT05280730,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Primary Completion Date,2025-06-30,2025-04-30
 NCT05280730,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Completion Date,2025-06-30,2025-04-30
 NCT05280730,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Last Update Post Date,2025-06-03,2025-03-26
@@ -36,14 +39,14 @@ NCT05524883,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,"S
 NCT05524883,2025-06-02 07:25:06.336978,2025-05-26 07:33:12.190880,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
 NCT05524883,2025-06-02 07:25:06.336978,2025-05-26 07:33:12.190880,Enrollment Count,86.0,88.0
 NCT05524883,2025-06-02 07:25:06.336978,2025-05-26 07:33:12.190880,Last Update Post Date,2025-05-28,2025-01-22
-NCT05683379,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Primary Completion Date,2026-09-01,2024-12-01
-NCT05683379,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Completion Date,2026-09-01,2024-12-01
-NCT05683379,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Last Update Post Date,2025-04-06,2024-07-18
+NCT05524883,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Last Update Post Date,2025-06-11,2025-05-28
 NCT05689164,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Enrollment Count,6.0,5.0
 NCT05689164,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Primary Completion Date,2025-08-29,2039-05-15
 NCT05689164,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Completion Date,2025-08-29,2039-05-15
 NCT05689164,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Last Update Post Date,2025-04-18,2025-02-07
 NCT05689164,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-13,2025-04-18
+NCT05689164,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Enrollment Count,7.0,6.0
+NCT05689164,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Last Update Post Date,2025-06-12,2025-05-13
 NCT05693142,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,AFFINITY DUCHENNE: RGX-202 Gene Therapy in Participants With Duchenne Muscular Dystrophy (DMD),AFFINITY DUCHENNE: RGX-202 Gene Therapy in Participants with Duchenne Muscular Dystrophy (DMD)
 NCT05693142,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-13,2025-03-12
 NCT05715957,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Overall Status,ENROLLING_BY_INVITATION,NOT_YET_RECRUITING
@@ -73,6 +76,8 @@ NCT06100887,2025-05-26 07:33:12.190880,2025-05-19 07:24:33.748238,Last Update Po
 NCT06124196,2025-04-28 07:50:22.409319,2025-04-21 07:23:14.983649,Last Update Post Date,2025-04-24,2024-04-01
 NCT06128564,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Last Update Post Date,2025-04-13,2025-03-17
 NCT06128564,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-13,2025-04-13
+NCT06128564,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Secondary Id,"2022-000691-19, 2023-509901-57-00",2022-000691-19
+NCT06128564,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Last Update Post Date,2025-06-08,2025-05-13
 NCT06138639,2025-04-21 07:23:14.983649,2025-04-14 07:23:54.936232,Last Update Post Date,2025-04-15,2025-03-26
 NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,Ph2 Open-label Study of AOC 1044 in Duchenne Muscular Dystrophy Participants With Mutations Amenable to Exon44 Skipping,Ph2 Open-label Study of AOC 1044 in Duchenne Muscular Dystrophy Participants with Mutations Amenable to Exon44 Skipping
 NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Summary,AOC 1044-CS2 (EXPLORE44-OLE) is an Open-label Study to Evaluate the Long-Term Safety and Tolerability of AOC 1044 Administered Intravenously to DMD Participants with Mutations Amenable to Exon 44 Skipping.,AOC 1044-CS2 (EXPLORE44-OLE) is an Open-label Study to Evaluate the Pharmacodynamics and Long-Term Safety and Tolerability of AOC 1044 Administered Intravenously to DMD Participants with Mutations Amenable to Exon 44 Skipping.
@@ -84,8 +89,6 @@ NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Completion Dat
 NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-14,2025-02-07
 NCT06270719,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Last Update Post Date,2025-05-02,2024-12-02
 NCT06274983,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Overall Status,UNKNOWN,ACTIVE_NOT_RECRUITING
-NCT06450639,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Start Date,2025-04-04,2025-03-31
-NCT06450639,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Last Update Post Date,2025-04-08,2025-03-07
 NCT06450639,2025-04-28 07:50:22.409319,2025-04-21 07:23:14.983649,Last Update Post Date,2025-04-22,2025-04-08
 NCT06450639,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Last Update Post Date,2025-04-30,2025-04-22
 NCT06491927,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-13,2024-07-09
@@ -96,9 +99,6 @@ NCT06565208,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Enrollment Cou
 NCT06565208,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Primary Completion Date,2025-04-28,2025-03-01
 NCT06565208,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Completion Date,2025-04-28,2025-03-01
 NCT06565208,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-15,2024-11-08
-NCT06817382,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Overall Status,RECRUITING,NOT_YET_RECRUITING
-NCT06817382,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Start Date,2025-05-31,2025-02-07
-NCT06817382,2025-04-14 07:23:54.936232,2025-04-07 07:25:06.872251,Last Update Post Date,2025-04-11,2025-02-10
 NCT06817382,2025-04-28 07:50:22.409319,2025-04-21 07:23:14.983649,Last Update Post Date,2025-04-24,2025-04-11
 NCT06817382,2025-05-26 07:33:12.190880,2025-05-19 07:24:33.748238,Last Update Post Date,2025-05-20,2025-04-24
 NCT06817382,2025-06-02 07:25:06.336978,2025-05-26 07:33:12.190880,Last Update Post Date,2025-05-30,2025-05-20
