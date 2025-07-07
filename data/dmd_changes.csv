@@ -1,12 +1,7 @@
 NCTId,final_date,start_date,change,final_value,start_value
-NCT07037862,2025-06-30 07:26:17.537986,,New  Study  Added,,
-NCT07039799,2025-06-30 07:26:17.537986,,New  Study  Added,,
-NCT07038824,2025-06-30 07:26:17.537986,,New  Study  Added,,
 NCT02470962,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,Cardiac Involvement in Patients With Duchenne/Becker Muscular Dystrophy,Cardiac Involvement in Patients with Duchenne/Becker Muscular Dystrophy
 NCT03057002,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Condition,"Cardiomyopathy, Hypertrophic, Dilated Cardiomyopathy, Duchenne Muscular Dystrophy, Cardiac Sarcoidosis, Becker Muscular Dystrophy, Heart Failure With Preserved Ejection Fraction, Heart Failure With Reduced Ejection Fraction","Cardiomyopathy, Hypertrophic, Dilated Cardiomyopathy, Duchenne Muscular Dystrophy, Cardiac Sarcoidosis, Becker Muscular Dystrophy, Heart Failure with Preserved Ejection Fraction, Heart Failure with Reduced Ejection Fraction"
 NCT03340675,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,Oral Ifetroban in Subjects With Duchenne Muscular Dystrophy,Oral Ifetroban in Subjects with Duchenne Muscular Dystrophy
-NCT03362502,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Completion Date,2025-08-29,2025-05-30
-NCT03362502,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Last Update Post Date,2025-05-02,2025-02-21
 NCT03362502,2025-06-30 07:26:17.537986,2025-06-23 07:26:00.104259,Last Update Post Date,2025-06-27,2025-05-02
 NCT03368742,2025-06-23 07:26:00.104259,2025-06-16 07:26:10.155389,Brief Summary,"This is a controlled, open-label, single-ascending dose study to evaluate the safety and tolerability of SGT-001 in adolescents and children with Duchenne muscular dystrophy (DMD). Participants will receive a single intravenous (IV) infusion of SGT-001 and will be followed for approximately 5 years.
 The protocol was amended to drop the control arm after 4 participants were dosed.","This is a controlled, open-label, single-ascending dose study to evaluate the safety, tolerability and efficacy of SGT-001 in adolescents and children with Duchenne muscular dystrophy (DMD). Participants will receive a single intravenous (IV) infusion of SGT-001 and will be followed for approximately 5 years.
@@ -14,16 +9,13 @@ The protocol was amended to drop the control arm after 4 participants were dosed
 NCT03368742,2025-06-23 07:26:00.104259,2025-06-16 07:26:10.155389,Primary Outcome Measure,Number of Participants with Treatment Emergent Adverse Events (TEAEs),Primary safety endpoint
 NCT03368742,2025-06-23 07:26:00.104259,2025-06-16 07:26:10.155389,Secondary Outcome Measure,"Number of Participants with Clinically Significant Abnormalities in Laboratory Parameters, Number of Participants with Clinically Significant Abnormalities in Vital Signs, Number of Participants with Clinically Significant Abnormalities in Physical Examinations, Number of Participants with Clinically Significant Abnormalities in Electrocardiogram (ECG), Change from Baseline in Microdystrophin Protein Levels in Muscle Biopsies Using Western Blot (WB), Change from Baseline in Microdystrophin Protein Levels in Muscle Biopsies Using Immunofluorescence (IF), Change from Baseline in North Star Ambulatory Assessment (NSAA) score in Ambulatory Participants, Change from Baseline in 6-minute walk test (6MWT) Distance in Ambulatory Participants, Change from Baseline in Total Upper Limb Function, as Measured by the Total Performance of the Upper Limb (PUL) Functional Scale Score, Change from Baseline in Respiratory Function, as Measured by Forced Vital Capacity (FVC) % Predicted, Forced Expiratory Volume in 1 second (FEV1) % Predicted, and Peak Expiratory Flow (PEF) % Predicted, Change from Baseline in Ejection Fraction, As Measured by Echocardiography, Change from Baseline in Left Ventricular End Systolic Volume, As Measured by Echocardiography, Change from Baseline in Myocardial Peak Circumferential Strain (Ecc), As Measured by Echocardiography, Change from Baseline in Quality of Life as Measured by the Paediatric Quality of Life Inventory (PedsQL) Duchenne muscular dystrophy (DMD) module and self-reported outcome measures as measured by the PODCI DMD module","Secondary safety endpoint, Secondary safety endpoint, Secondary safety endpoint, Secondary safety endpoint, Secondary efficacy endpoint, Secondary efficacy endpoint, Secondary efficacy endpoint, Secondary efficacy endpoint, Secondary efficacy endpoint, Secondary efficacy endpoint, Secondary efficacy endpoint, Secondary efficacy endpoint, Secondary efficacy endpoint"
 NCT03368742,2025-06-23 07:26:00.104259,2025-06-16 07:26:10.155389,Last Update Post Date,2025-06-18,2025-04-16
-NCT03373968,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Overall Status,ACTIVE_NOT_RECRUITING,ENROLLING_BY_INVITATION
-NCT03373968,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Primary Completion Date,2029-12-01,2025-12-01
-NCT03373968,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Completion Date,2029-12-01,2025-12-01
-NCT03373968,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Last Update Post Date,2025-04-30,2023-11-07
 NCT03406780,2025-06-02 07:25:06.336978,2025-05-26 07:33:12.190880,Last Update Post Date,2025-05-28,2025-02-24
 NCT04281485,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Has Results,True,False
 NCT04281485,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Primary Outcome Measure,Change From Baseline in North Star Ambulatory Assessment (NSAA) Total Score at Week 52,Change from Baseline in North Star Ambulatory Assessment (NSAA)
 NCT04281485,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Secondary Outcome Measure,"Change From Baseline in Percent Normal Dystrophin Expression Level in Muscle Biopsies by Liquid Chromatography Mass Spectrometry (LC-MS) Based on LLQV Peptide at Week 52, Change From Baseline in Percent of Muscle Fibers Expressing Mini-Dystrophin in Muscle Biopsies by Immunofluorescence at Week 52, Change From Baseline in Serum Creatine Kinase (CK) Concentration at Week 52, Least Square Mean of Proportion of Skills Gained Based on the Individual Items of the NSAA at Week 52, Least Square Mean of Proportion of Skills Either Improved or Maintained Based on the Individual Items of the NSAA at Week 52, Change From Baseline in 10 Meter Run/Walk Velocity at Week 52, Change From Baseline in Rise From Floor Velocity at Week 52, Change From Baseline in Modified Pediatric Outcome Data Collection Instrument (PODCI)- Transfer and Basic Mobility Core Scale at Week 52, Change From Baseline in Modified PODCI- Sports and Physical Functioning Core Scale at Week 52","Change from Baseline in mini-dystrophin expression level in muscle, Change from Baseline in distribution of mini-dystrophin expression in the muscle, Change from Baseline in serum creatine kinase (CK), Number of skills gained based on the individual items of the NSAA., Number of skills improved or maintained based on the individual items of the NSAA, Change from Baseline in the 10-meter run/walk test velocity, Change from Baseline in the rise from floor velocity, Change from Baseline in the Modified Pediatric Outcomes Data Collection Instrument (PODCI): Transfer and Basic Mobility Core Scale, Change from Baseline in the Modified Pediatric Outcomes Data Collection Instrucment (PODCI): Sports and Physical Functioning Core Scale"
 NCT04281485,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Enrollment Count,114.0,122.0
 NCT04281485,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Last Update Post Date,2025-06-08,2025-01-13
+NCT04428476,2025-07-07 07:26:05.995520,2025-06-30 07:26:17.537986,Last Update Post Date,2025-07-03,2025-02-24
 NCT04906460,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,Open-label Study of WVE-N531 in Patients With Duchenne Muscular Dystrophy (FORWARD-53),Open-label Study of WVE-N531 in Patients with Duchenne Muscular Dystrophy (FORWARD-53)
 NCT05126758,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Secondary Outcome Measure,"Change in cardiac muscle function and structure by assessment of left ventricular ejection fraction, Change in cardiac muscle function and structure by assessment of left ventricular end-systolic volume, Change in cardiac muscle function and structure by assessment of left ventricular end-diastolic volume, Change in elbow and distal level upper limb function, Change in Global Statistical Test (Total GST) combining upper limb function, cardiac muscle function, and patient reported measure of disease severity, Changes in cardiac inflammation biomarker, creatine kinase MB isoenzyme [CK-MB], Change in hand-to-mouth function in the context of functional eating, Change in hand-to-mouth function, Number of patients with total loss of hand-to-mouth function, Changes in patient-reported upper limb function","Change in cardiac muscle function and structure by assessment of left ventricular ejection fraction, Change in cardiac muscle function and structure by assessment of left ventricular end-systolic volume, Change in cardiac muscle function and structure by assessment of left ventricular end-diastolic volume, Change in elbow and distal level upper limb function, Change in Global Statistical Test (Total GST) combining upper limb function, cardiac muscle function, and patient reported measure of disease severity, Change in hand-to-mouth function in the context of functional eating, Change in hand-to-mouth function, Number of patients with total loss of hand-to-mouth function, Changes in patient-reported upper limb function, Changes in cardiac inflammation biomarker, creatine kinase MB isoenzyme [CK-MB]"
 NCT05126758,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Last Update Post Date,2025-06-13,2025-02-04
@@ -38,7 +30,6 @@ NCT05257473,2025-06-16 07:26:10.155389,2025-06-09 07:25:23.411786,Last Update Po
 NCT05280730,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Primary Completion Date,2025-06-30,2025-04-30
 NCT05280730,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Completion Date,2025-06-30,2025-04-30
 NCT05280730,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Last Update Post Date,2025-06-03,2025-03-26
-NCT05291091,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Last Update Post Date,2025-04-27,2025-04-03
 NCT05291091,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Last Update Post Date,2025-05-31,2025-04-27
 NCT05429372,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-15,2025-04-18
 NCT05524883,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,"Safety, Tolerability, Pharmacodynamic, Efficacy, and Pharmacokinetic Study of DYNE-251 in Participants With Duchenne Muscular Dystrophy Amenable to Exon 51 Skipping","Safety, Tolerability, Pharmacodynamic, Efficacy, and Pharmacokinetic Study of DYNE-251 in Participants with Duchenne Muscular Dystrophy Amenable to Exon 51 Skipping"
@@ -56,13 +47,12 @@ NCT05715957,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Start Date,202
 NCT05715957,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Primary Completion Date,2025-08-01,2024-08-01
 NCT05715957,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Completion Date,2025-12-01,2025-08-01
 NCT05715957,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Last Update Post Date,2025-06-06,2023-02-09
-NCT05833633,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Overall Status,UNKNOWN,RECRUITING
 NCT05881408,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Last Update Post Date,2025-05-31,2025-04-15
 NCT05881408,2025-06-30 07:26:17.537986,2025-06-23 07:26:00.104259,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
 NCT05881408,2025-06-30 07:26:17.537986,2025-06-23 07:26:00.104259,Last Update Post Date,2025-06-22,2025-05-31
-NCT05933057,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Last Update Post Date,2025-04-30,2025-03-27
 NCT05933057,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-11,2025-04-30
 NCT05938023,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Brief Title,A Study of ATL1102 or Placebo in Participants With Non-ambulatory Duchenne Muscular Dystrophy,A Study of ATL1102 or Placebo in Participants with Non-ambulatory Duchenne Muscular Dystrophy
+NCT05967793,2025-07-07 07:26:05.995520,2025-06-30 07:26:17.537986,Overall Status,UNKNOWN,RECRUITING
 NCT05982119,2025-05-26 07:33:12.190880,2025-05-19 07:24:33.748238,Brief Title,Assessments in Patients With Muscular Pathology and in Control Subjects : The ActiLiège Next Study,Assessments in Patients with Muscular Pathology and in Control Subjects : the ActiLiège Next Study
 NCT05982119,2025-05-26 07:33:12.190880,2025-05-19 07:24:33.748238,Lead Sponsor Name,Centre Hospitalier Universitaire de Liege,Laurent Servais
 NCT05982119,2025-05-26 07:33:12.190880,2025-05-19 07:24:33.748238,Last Update Post Date,2025-05-20,2025-02-12
@@ -100,14 +90,12 @@ NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Enrollment Cou
 NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Primary Completion Date,2027-04-30,2025-12-31
 NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Completion Date,2027-07-31,2026-12-31
 NCT06244082,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-14,2025-02-07
-NCT06270719,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Last Update Post Date,2025-05-02,2024-12-02
 NCT06274983,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Overall Status,UNKNOWN,ACTIVE_NOT_RECRUITING
 NCT06280209,2025-06-23 07:26:00.104259,2025-06-16 07:26:10.155389,Brief Title,"A Phase 1/2 Study to Assess the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of BMN 351 in Participants With Duchenne Muscular Dystrophy","A Phase 1/2 Study to Assess the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of BMN 351 in Participants with Duchenne Muscular Dystrophy"
 NCT06280209,2025-06-23 07:26:00.104259,2025-06-16 07:26:10.155389,Secondary Outcome Measure,"Pharmacokinetics (PK) concentration of BMN 351 in plasma, urine and muscle approximately every 8 weeks for up to 97 weeks.","Pharmacokinetics (PK) concentration of BMN 351 in plasma, urine and muscle approximately every 8 weeks for up to 48 weeks."
 NCT06280209,2025-06-23 07:26:00.104259,2025-06-16 07:26:10.155389,Primary Completion Date,2026-09-30,2025-12-01
 NCT06280209,2025-06-23 07:26:00.104259,2025-06-16 07:26:10.155389,Completion Date,2026-09-30,2025-12-01
 NCT06280209,2025-06-23 07:26:00.104259,2025-06-16 07:26:10.155389,Last Update Post Date,2025-06-19,2024-12-05
-NCT06450639,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Last Update Post Date,2025-04-30,2025-04-22
 NCT06450639,2025-06-30 07:26:17.537986,2025-06-23 07:26:00.104259,Last Update Post Date,2025-06-22,2025-04-30
 NCT06491927,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-13,2024-07-09
 NCT06564974,2025-05-26 07:33:12.190880,2025-05-19 07:24:33.748238,Last Update Post Date,2025-05-20,2025-04-02
@@ -118,6 +106,13 @@ NCT06565208,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Enrollment Cou
 NCT06565208,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Primary Completion Date,2025-04-28,2025-03-01
 NCT06565208,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Completion Date,2025-04-28,2025-03-01
 NCT06565208,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-15,2024-11-08
+NCT06597656,2025-07-07 07:26:05.995520,2025-06-30 07:26:17.537986,Brief Summary,This is a gene transfer therapy study evaluating the safety of and delandistrogene moxeparvovec dystrophin protein expression from delandistrogene moxeparvovec following therapeutic plasma exchange (plasmapheresis) in ambulatory male participants with DMD and pre-existing antibodies to AAVrh74 over a period of 59 weeks.,This is a gene transfer therapy study evaluating the safety of and delandistrogene moxeparvovec dystrophin protein expression from delandistrogene moxeparvovec following therapeutic plasma exchange (plasmapheresis) in ambulatory male participants with DMD and pre-existing antibodies to AAVrh74 over a period of 58 weeks.
+NCT06597656,2025-07-07 07:26:05.995520,2025-06-30 07:26:17.537986,Enrollment Count,10.0,16.0
+NCT06597656,2025-07-07 07:26:05.995520,2025-06-30 07:26:17.537986,Last Update Post Date,2025-07-02,2025-03-03
+NCT06643442,2025-07-07 07:26:05.995520,2025-06-30 07:26:17.537986,Start Date,2025-10-01,2025-02-01
+NCT06643442,2025-07-07 07:26:05.995520,2025-06-30 07:26:17.537986,Primary Completion Date,2027-03-31,2026-07-31
+NCT06643442,2025-07-07 07:26:05.995520,2025-06-30 07:26:17.537986,Completion Date,2027-03-31,2026-07-31
+NCT06643442,2025-07-07 07:26:05.995520,2025-06-30 07:26:17.537986,Last Update Post Date,2025-07-02,2024-10-16
 NCT06817382,2025-05-26 07:33:12.190880,2025-05-19 07:24:33.748238,Last Update Post Date,2025-05-20,2025-04-24
 NCT06817382,2025-06-02 07:25:06.336978,2025-05-26 07:33:12.190880,Last Update Post Date,2025-05-30,2025-05-20
 NCT06817382,2025-06-09 07:25:23.411786,2025-06-02 07:25:06.336978,Last Update Post Date,2025-06-03,2025-05-30
@@ -131,5 +126,5 @@ NCT06867107,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Start Date,202
 NCT06867107,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Primary Completion Date,2026-08-30,2026-06-30
 NCT06867107,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Completion Date,2026-08-30,2026-06-30
 NCT06867107,2025-05-19 07:24:33.748238,2025-05-12 07:24:11.036740,Last Update Post Date,2025-05-15,2025-03-10
-NCT06925269,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Start Date,2025-03-31,2025-04-04
-NCT06925269,2025-05-05 07:24:12.176512,2025-04-28 07:50:22.409319,Last Update Post Date,2025-04-30,2025-04-13
+NCT07037862,2025-07-07 07:26:05.995520,2025-06-30 07:26:17.537986,Overall Status,RECRUITING,NOT_YET_RECRUITING
+NCT07037862,2025-07-07 07:26:05.995520,2025-06-30 07:26:17.537986,Last Update Post Date,2025-07-01,2025-06-26
