@@ -1,4 +1,5 @@
 NCTId,final_date,start_date,change,final_value,start_value
+NCT07160634,2025-09-15 07:24:11.470430,,New  Study  Added,,
 NCT01451281,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Brief Summary,"Background:
 \- Duchenne muscular dystrophy (DMD) is a disease in which the muscles are unable to make the protein dystrophin. Without this protein, the muscles become gradually weaker. A new medicine called GSK2402968 is being tested to see if it can help prevent or slow down this loss of muscle strength. In this study, boys with DMD and healthy volunteers will have different types of imaging studies to see which ones provide the best images of the muscles. This information will help researchers use these imaging techniques to test the safety and effectiveness of GSK2402968 and other agents.
 Objectives:
@@ -20,7 +21,6 @@ Design:
 * Participants will be screened with a medical history and physical exam.
 * Healthy volunteers will have one 2-hour visit with three tests. Magnetic resonance imaging (MRI) scans of the skeletal muscles and heart and diaphragm muscles will be carried out. Muscle ultrasound imaging of leg and arm muscles will also be done. Participants should not perform heavy physical activity like school sports or long walks during the week before the visit.
 * Participants in the GSK2402968 study will have the same series of tests as the healthy volunteers. The tests will be given during the study screening phase. They will be repeated after 3 months and 6 months of receiving the study agent (GSK2402968 or placebo) and at 6 months after stopping the GSK study."
-NCT01484678,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-09,2024-07-24
 NCT01910649,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Last Update Post Date,2016-11-07,2016-11-06
 NCT01982695,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Collaborator Name,"Boston Children's Hospital, University of California, Davis, University of Kansas Medical Center, University of Minnesota, St. Louis Children's Hospital","Boston Children's Hospital, University of California, Davis, Unverisity of Kansas Medical Center, University of Minnesota, St. Louis Children's Hospital"
 NCT02078076,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Last Update Post Date,2025-08-27,2016-02-24
@@ -45,16 +45,22 @@ Design:
 * Participants will take a questionnaire. The questionnaire can be done on paper or on a computer. It will take 30 45 minutes to complete.
 * The questionnaire will include basic demographic questions about the participant and the child. There will also be questions about how the participant copes with the stress and uncertainty of DBMD.
 * For most of the questions, participants will rate their feelings on a scale. There will also be four open-ended questions."
-NCT03362502,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-09,2025-06-27
 NCT03362502,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Last Update Post Date,2025-07-30,2025-07-09
 NCT03368742,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-03,2025-06-18
+NCT03368742,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-09,2025-08-03
 NCT03836300,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Last Update Post Date,2025-07-31,2025-04-06
-NCT04281485,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-11,2025-06-08
+NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Overall Status,COMPLETED,ACTIVE_NOT_RECRUITING
+NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Has Results,True,False
+NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Primary Outcome Measure,Number of Participants With Unacceptable Toxicity.,Monitoring for the development of unacceptable toxicity.
+NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Secondary Outcome Measure,"Change in Dystrophin Expression From Baseline Following Treatment With scAAV9.U7.ACCA., Change in Dystrophin Expression From Baseline Following Treatment With scAAV9.U7.ACCA., Changes in Percent of Exon 2 Skipping/Exclusion in the Dystrophin mRNA Transcript.","Change in dystrophin expression from baseline following treatment with scAAV9.U7.ACCA., Change in dystrophin expression from baseline following treatment with scAAV9.U7.ACCA., Changes in exon 2 inclusion in the dystrophin mRNA transcript."
+NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Collaborator Name,"Audentes Therapeutics, Astellas Pharma Inc",Audentes Therapeutics
+NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Primary Completion Date,2023-11-13,2023-11-19
+NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Completion Date,2025-07-01,2025-11-19
+NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-11,2023-02-09
 NCT04281485,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-13,2025-07-11
 NCT04281485,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-08-13
+NCT04587908,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-11,2024-08-14
 NCT04626674,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-11,2024-08-26
-NCT05096221,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Secondary Outcome Measure,"Part 1: Quantity of Delandistrogene Moxeparvovec Dystrophin Protein Expression at Week 12 as Measured by Western Blot Adjusted by Muscle Content, Part 1: Change From Baseline in Time to Rise From the Floor at Week 52, Part 1: Change From Baseline in Time to Complete 10 Meter Walk/Run (10MWR) at Week 52, Part 1: Change From Baseline in Time to Complete 100 Meter Walk/Run (100MWR) at Week 52, Part 1: Change From Baseline in the Timed Stair Ascend 4 Steps Test at Week 52, Part 1: Change From Baseline in Stride Velocity 95th Centile (SV95C) at Week 52, Part 1: Change From Baseline in Patient-Reported Outcomes Measurement Information System (PROMIS) Score in Mobility to Week 52, Part 1: Change From Baseline in PROMIS Score in Upper Extremity Function to Week 52, Part 1: Number of Skills Gained or Improved at Week 52 as Measured by the NSAA, Parts 1 and 2: Number of Participants With Treatment Emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs), Parts 1 and 2: Number of Participants With Adverse Events of Special Interest (AESI)","Part 1: Quantity of Delandistrogene Moxeparvovec Dystrophin Protein Expression at Week 12 as Measured by Western Blot Adjusted by Muscle Content, Part 1: Change From Baseline in Time to Rise From the Floor at Week 52, Part 1: Change From Baseline in Time to Complete 10 Meter Walk/Run (10MWR) at Week 52, Part 1: Change From Baseline in Time to Complete 100 Meter Walk/Run (100MWR) at Week 52, Part 1: Change From Baseline in the Timed Stair Ascend 4 Steps Test at Week 52, Part 1: Change From Baseline in Stride Velocity 95th Centile (SV95C) at Week 52, Part 1: Change From Baseline in Patient-Reported Outcomes Measurement Information System (PROMIS) Score in Mobility to Week 52, Part 1: Change From Baseline in PROMIS Score in Upper Extremity Function to Week 52, Part 1: Number of Skills Gained or Improved at Week 52 as Measured by the NSAA, Part 1: Number of Participants With Treatment Emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs), Part 1: Number of Participants With Adverse Events of Special Interest (AESI)"
-NCT05096221,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-08,2024-12-10
 NCT05135663,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Primary Completion Date,2027-04-30,2026-01-31
 NCT05135663,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Completion Date,2027-04-30,2026-07-31
 NCT05135663,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Last Update Post Date,2025-07-20,2024-11-26
@@ -63,57 +69,34 @@ NCT05280730,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Enrollment Cou
 NCT05280730,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Primary Completion Date,2024-09-30,2025-06-30
 NCT05280730,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Completion Date,2024-09-30,2025-06-30
 NCT05280730,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-14,2025-06-03
-NCT05291091,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-04,2025-05-31
 NCT05291091,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-07-04
 NCT05412394,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-13,2025-02-13
-NCT05429372,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Primary Completion Date,2025-09-19,2025-06-30
-NCT05429372,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Completion Date,2025-09-19,2025-06-30
-NCT05429372,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-09,2025-05-15
 NCT05429372,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-12,2025-07-09
 NCT05429372,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-08-12
-NCT05524883,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Secondary Id,"2023-510351-31-00, ITA 362546 (model PA-000798)",2023-510351-31-00
-NCT05524883,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-10,2025-06-11
 NCT05524883,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-13,2025-07-10
 NCT05670730,2025-07-21 07:33:27.431383,2025-07-14 07:28:31.807933,Brief Title,Study of AOC 1044 in Healthy Adult Volunteers and Participants With Duchenne Muscular Dystrophy (DMD) Mutations Amenable to Exon 44 Skipping,Study of AOC 1044 in Healthy Adult Volunteers and Participants with Duchenne Muscular Dystrophy (DMD) Mutations Amenable to Exon 44 Skipping
 NCT05670730,2025-07-21 07:33:27.431383,2025-07-14 07:28:31.807933,Last Update Post Date,2025-07-14,2025-03-11
-NCT05689164,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-08,2025-06-12
 NCT05689164,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-11,2025-07-08
 NCT05689164,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Primary Completion Date,2025-09-05,2025-08-29
 NCT05689164,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Completion Date,2025-09-05,2025-08-29
 NCT05689164,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-08-11
-NCT05693142,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-09,2025-05-13
 NCT05693142,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Last Update Post Date,2025-07-22,2025-07-09
 NCT05693142,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-13,2025-07-22
-NCT06066580,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-04,2025-06-03
+NCT05693142,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Brief Summary,"RGX-202 is a gene therapy designed to deliver a transgene for a novel microdystrophin that includes functional elements of naturally-occurring dystrophin including the C-Terminal (CT) domain.
+This is a multicenter, open-label dose evaluation clinical study to assess the safety, tolerability, and clinical efficacy of a one-time intravenous (IV) dose of RGX-202 in participants with Duchenne.
+For additional information on how to participate (or be considered for the study), please follow this link: https://mytomorrows.com/trials/affinity-duchenne","RGX-202 is a gene therapy designed to deliver a transgene for a novel microdystrophin that includes functional elements of naturally-occurring dystrophin including the C-Terminal (CT) domain.
+This is a multicenter, open-label dose evaluation clinical study to assess the safety, tolerability, and clinical efficacy of a one-time intravenous (IV) dose of RGX-202 in participants with Duchenne."
+NCT05693142,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2025-08-13
+NCT06053814,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2024-12-17
 NCT06066580,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-07-04
 NCT06093100,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-07,2024-09-19
 NCT06124196,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-11,2025-04-24
-NCT06128564,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-08,2025-06-08
 NCT06128564,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-03,2025-07-08
 NCT06128564,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-08-03
 NCT06138639,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Last Update Post Date,2025-08-24,2025-06-17
-NCT06270719,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-04,2025-05-02
+NCT06138639,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-09,2025-08-24
 NCT06270719,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Overall Status,ENROLLING_BY_INVITATION,RECRUITING
 NCT06270719,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-11,2025-07-04
-NCT06290713,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-09,2024-06-25
-NCT06363357,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Brief Title,"The Effect of a Muscle-mimicking, Fabric-type Shoulder Orthosis on Functional Movements of the Upper Limb in Patients With Neuromuscular Disorder","The Effect of a Muscle-mimicking, Fabric-type Shoulder Orthosis on Functional Movements of the Upper Limb in Patients With Duchenne Muscular Dystrophy"
-NCT06363357,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Brief Summary,"The goal of this clinical trial is to investigate the effect of a muscle-mimicking, fabric-type shoulder orthosis on functional movements of the upper limb in patients with neuromuscular disorder.
-The main questions it aims to answer are:
-* What is the impact of the muscle-mimicking, fabric-type shoulder orthosis on upper limb functional movements in patients with neuromuscular disorder?
-* Are there observable differences in upper limb function when the shoulder orthosis is worn versus when it is not?
-Participants will:
-* Receive education on how to wear and use the shoulder orthosis.
-* Undergo evaluations, including assessment of upper limb performance, shoulder muscle strength testing, active range of motion measurements, assessment of functional workspace, goal attainment scale evaluation, surface electromyography, physiological measurements such as blood pressure and heart rate, fatigue assessment, and assessment for any musculoskeletal or skin-related issues.
-Researchers will compare neuromuscular disorder patients before and while wearing and operating the shoulder orthosis to see if there are any significant effects on variables such as upper limb function, range of motion, functional workspace, goal attainment scale, and surface electromyography.","The goal of this clinical trial is to investigate the effect of a muscle-mimicking, fabric-type shoulder orthosis on functional movements of the upper limb in patients with Duchenne muscular dystrophy.
-The main questions it aims to answer are:
-* What is the impact of the muscle-mimicking, fabric-type shoulder orthosis on upper limb functional movements in patients with Duchenne muscular dystrophy?
-* Are there observable differences in upper limb function when the shoulder orthosis is worn versus when it is not?
-Participants will:
-* Receive education on how to wear and use the shoulder orthosis.
-* Undergo evaluations, including assessment of upper limb performance, shoulder muscle strength testing, active range of motion measurements, assessment of functional workspace, goal attainment scale evaluation, surface electromyography, physiological measurements such as blood pressure and heart rate, fatigue assessment, and assessment for any musculoskeletal or skin-related issues.
-Researchers will compare Duchenne muscular dystrophy patients before and while wearing and operating the shoulder orthosis to see if there are any significant effects on variables such as upper limb function, range of motion, functional workspace, goal attainment scale, and surface electromyography."
-NCT06363357,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Condition,"Muscular Dystrophy, Duchenne, Orthotic Devices, Upper Extremity, Neuromuscular Diseases (NMD), Fascioscapulohumeral Muscular Dystrophy, Spinal Muscular Atrophy (SMA), ALS (Amyotrophic Lateral Sclerosis), LGMD, SCI - Spinal Cord Injury","Muscular Dystrophy, Duchenne, Orthotic Devices, Upper Extremity"
-NCT06363357,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-11,2024-06-21
 NCT06392724,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
 NCT06392724,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Start Date,2024-07-05,2024-07-01
 NCT06392724,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Last Update Post Date,2025-07-29,2024-07-08
@@ -126,6 +109,7 @@ NCT06597656,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Enrollment Cou
 NCT06597656,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Primary Completion Date,2025-08-05,2025-11-30
 NCT06597656,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Completion Date,2025-08-05,2026-08-31
 NCT06597656,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-04,2025-07-14
+NCT06606340,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2024-09-23
 NCT06643442,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-15,2025-07-02
 NCT06755138,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Brief Summary,"* Objective:
 The objective of this observational study is to evaluate and quantify trunk muscle compensatory movement patterns in patients with Duchenne Muscular Dystrophy (DMD) using computer vision technology. Additionally, the study seeks to explore the relationship between these compensatory patterns and scoliosis, upper limb function, pain levels, and quality of life during functional upper limb movements.
@@ -202,10 +186,15 @@ vi. Reaching toward distant objects in the front, left, and right directions.
   1. Sternocleidomastoid
   2. Longissimus muscle
   3. External oblique abdominal muscle"
-NCT06769633,2025-07-14 07:28:31.807933,2025-07-07 07:26:05.995520,Last Update Post Date,2025-07-10,2025-01-24
+NCT06867107,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Overall Status,ENROLLING_BY_INVITATION,NOT_YET_RECRUITING
+NCT06867107,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Start Date,2025-08-20,2025-07-15
+NCT06867107,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2025-05-15
 NCT06887491,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Brief Title,The Effect of Dual-tasking Program on Cognitive and Physical Functions and Independence in Activities of Daily Living in Children With Duchenne Muscular Dystrophy: A Single-blind Randomized Controlled Trial,The Effect of Dual-tasking Program on Cognitive and Physical Functions and Independence in Activities of Daily Living in Children with Duchenne Muscular Dystrophy: a Single-blind Randomized Controlled Trial
 NCT06887491,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Start Date,2025-11-14,2025-04-14
 NCT06887491,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Last Update Post Date,2025-07-22,2025-03-20
 NCT07058662,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Overall Status,RECRUITING,NOT_YET_RECRUITING
 NCT07058662,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Start Date,2025-07-31,2025-06-30
 NCT07058662,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Last Update Post Date,2025-08-24,2025-07-10
+NCT07058662,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Collaborator Name,"Shanghai Mianyi Biopharmaceutical Co., Ltd., Shanghai Xinzhi BioMed Co., Ltd., Belief BioMed Limited","Shanghai Mianyi Biopharmaceutical Co., Ltd., Shanghai Xinzhi BioMed Co., Ltd, Belief BioMed Limited"
+NCT07127978,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Condition,Duchene Muscular Dystrophy,"Duchene Muscular Dystrophy, Duchene&Amp;Amp;#39;s Muscular Dystrophy"
+NCT07127978,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2025-08-17
