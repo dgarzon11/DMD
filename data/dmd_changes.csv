@@ -1,5 +1,6 @@
 NCTId,final_date,start_date,change,final_value,start_value
-NCT07160634,2025-09-15 07:24:11.470430,,New  Study  Added,,
+NCT07172971,2025-09-22 07:24:44.677743,,New  Study  Added,,
+NCT07172737,2025-09-22 07:24:44.677743,,New  Study  Added,,
 NCT01451281,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Brief Summary,"Background:
 \- Duchenne muscular dystrophy (DMD) is a disease in which the muscles are unable to make the protein dystrophin. Without this protein, the muscles become gradually weaker. A new medicine called GSK2402968 is being tested to see if it can help prevent or slow down this loss of muscle strength. In this study, boys with DMD and healthy volunteers will have different types of imaging studies to see which ones provide the best images of the muscles. This information will help researchers use these imaging techniques to test the safety and effectiveness of GSK2402968 and other agents.
 Objectives:
@@ -46,6 +47,9 @@ Design:
 * The questionnaire will include basic demographic questions about the participant and the child. There will also be questions about how the participant copes with the stress and uncertainty of DBMD.
 * For most of the questions, participants will rate their feelings on a scale. There will also be four open-ended questions."
 NCT03362502,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Last Update Post Date,2025-07-30,2025-07-09
+NCT03362502,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Overall Status,TERMINATED,ACTIVE_NOT_RECRUITING
+NCT03362502,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Completion Date,2025-07-28,2025-08-29
+NCT03362502,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-15,2025-07-30
 NCT03368742,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-03,2025-06-18
 NCT03368742,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-09,2025-08-03
 NCT03836300,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Last Update Post Date,2025-07-31,2025-04-06
@@ -59,11 +63,17 @@ NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Completion Dat
 NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-11,2023-02-09
 NCT04281485,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-13,2025-07-11
 NCT04281485,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-08-13
+NCT04433234,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-19,2024-08-29
 NCT04587908,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-11,2024-08-14
 NCT04626674,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-11,2024-08-26
 NCT05135663,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Primary Completion Date,2027-04-30,2026-01-31
 NCT05135663,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Completion Date,2027-04-30,2026-07-31
 NCT05135663,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Last Update Post Date,2025-07-20,2024-11-26
+NCT05166109,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Overall Status,COMPLETED,ACTIVE_NOT_RECRUITING
+NCT05166109,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Enrollment Count,46.0,39.0
+NCT05166109,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Primary Completion Date,2025-08-18,2025-06-30
+NCT05166109,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Completion Date,2025-08-18,2025-06-30
+NCT05166109,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-18,2024-12-27
 NCT05280730,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Overall Status,COMPLETED,RECRUITING
 NCT05280730,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Enrollment Count,50.0,90.0
 NCT05280730,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Primary Completion Date,2024-09-30,2025-06-30
@@ -73,9 +83,8 @@ NCT05291091,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Po
 NCT05412394,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-13,2025-02-13
 NCT05429372,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-12,2025-07-09
 NCT05429372,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-08-12
+NCT05464446,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT05524883,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-13,2025-07-10
-NCT05670730,2025-07-21 07:33:27.431383,2025-07-14 07:28:31.807933,Brief Title,Study of AOC 1044 in Healthy Adult Volunteers and Participants With Duchenne Muscular Dystrophy (DMD) Mutations Amenable to Exon 44 Skipping,Study of AOC 1044 in Healthy Adult Volunteers and Participants with Duchenne Muscular Dystrophy (DMD) Mutations Amenable to Exon 44 Skipping
-NCT05670730,2025-07-21 07:33:27.431383,2025-07-14 07:28:31.807933,Last Update Post Date,2025-07-14,2025-03-11
 NCT05689164,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-11,2025-07-08
 NCT05689164,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Primary Completion Date,2025-09-05,2025-08-29
 NCT05689164,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Completion Date,2025-09-05,2025-08-29
@@ -87,9 +96,12 @@ This is a multicenter, open-label dose evaluation clinical study to assess the s
 For additional information on how to participate (or be considered for the study), please follow this link: https://mytomorrows.com/trials/affinity-duchenne","RGX-202 is a gene therapy designed to deliver a transgene for a novel microdystrophin that includes functional elements of naturally-occurring dystrophin including the C-Terminal (CT) domain.
 This is a multicenter, open-label dose evaluation clinical study to assess the safety, tolerability, and clinical efficacy of a one-time intravenous (IV) dose of RGX-202 in participants with Duchenne."
 NCT05693142,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2025-08-13
+NCT05996003,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Condition,"Duchenne Muscular Dystrophy, Exon 44, DMD",Duchenne Muscular Dystrophy
+NCT05996003,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-16,2025-06-05
 NCT06053814,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2024-12-17
 NCT06066580,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-07-04
 NCT06093100,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-07,2024-09-19
+NCT06103006,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT06124196,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-11,2025-04-24
 NCT06128564,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-03,2025-07-08
 NCT06128564,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-08-03
@@ -100,10 +112,11 @@ NCT06270719,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Po
 NCT06392724,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
 NCT06392724,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Start Date,2024-07-05,2024-07-01
 NCT06392724,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Last Update Post Date,2025-07-29,2024-07-08
+NCT06412328,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT06450639,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Last Update Post Date,2025-07-20,2025-06-22
 NCT06450639,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-15,2025-07-20
+NCT06450639,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-16,2025-08-15
 NCT06564974,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-05,2025-06-24
-NCT06597656,2025-07-21 07:33:27.431383,2025-07-14 07:28:31.807933,Last Update Post Date,2025-07-14,2025-07-02
 NCT06597656,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Overall Status,TERMINATED,RECRUITING
 NCT06597656,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Enrollment Count,3.0,10.0
 NCT06597656,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Primary Completion Date,2025-08-05,2025-11-30
@@ -111,6 +124,7 @@ NCT06597656,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Completion Dat
 NCT06597656,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-04,2025-07-14
 NCT06606340,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2024-09-23
 NCT06643442,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-15,2025-07-02
+NCT06643923,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT06755138,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Brief Summary,"* Objective:
 The objective of this observational study is to evaluate and quantify trunk muscle compensatory movement patterns in patients with Duchenne Muscular Dystrophy (DMD) using computer vision technology. Additionally, the study seeks to explore the relationship between these compensatory patterns and scoliosis, upper limb function, pain levels, and quality of life during functional upper limb movements.
 * Key Research Questions:
@@ -186,12 +200,17 @@ vi. Reaching toward distant objects in the front, left, and right directions.
   1. Sternocleidomastoid
   2. Longissimus muscle
   3. External oblique abdominal muscle"
+NCT06756633,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
+NCT06817382,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Start Date,2025-07-22,2025-05-31
+NCT06817382,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-17,2025-06-03
 NCT06867107,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Overall Status,ENROLLING_BY_INVITATION,NOT_YET_RECRUITING
 NCT06867107,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Start Date,2025-08-20,2025-07-15
 NCT06867107,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2025-05-15
+NCT06868784,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT06887491,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Brief Title,The Effect of Dual-tasking Program on Cognitive and Physical Functions and Independence in Activities of Daily Living in Children With Duchenne Muscular Dystrophy: A Single-blind Randomized Controlled Trial,The Effect of Dual-tasking Program on Cognitive and Physical Functions and Independence in Activities of Daily Living in Children with Duchenne Muscular Dystrophy: a Single-blind Randomized Controlled Trial
 NCT06887491,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Start Date,2025-11-14,2025-04-14
 NCT06887491,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Last Update Post Date,2025-07-22,2025-03-20
+NCT06887491,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT07058662,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Overall Status,RECRUITING,NOT_YET_RECRUITING
 NCT07058662,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Start Date,2025-07-31,2025-06-30
 NCT07058662,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Last Update Post Date,2025-08-24,2025-07-10
