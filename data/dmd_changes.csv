@@ -1,6 +1,5 @@
 NCTId,final_date,start_date,change,final_value,start_value
-NCT07172971,2025-09-22 07:24:44.677743,,New  Study  Added,,
-NCT07172737,2025-09-22 07:24:44.677743,,New  Study  Added,,
+NCT07188012,2025-09-29 07:24:18.405365,,New  Study  Added,,
 NCT01451281,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Brief Summary,"Background:
 \- Duchenne muscular dystrophy (DMD) is a disease in which the muscles are unable to make the protein dystrophin. Without this protein, the muscles become gradually weaker. A new medicine called GSK2402968 is being tested to see if it can help prevent or slow down this loss of muscle strength. In this study, boys with DMD and healthy volunteers will have different types of imaging studies to see which ones provide the best images of the muscles. This information will help researchers use these imaging techniques to test the safety and effectiveness of GSK2402968 and other agents.
 Objectives:
@@ -46,6 +45,7 @@ Design:
 * Participants will take a questionnaire. The questionnaire can be done on paper or on a computer. It will take 30 45 minutes to complete.
 * The questionnaire will include basic demographic questions about the participant and the child. There will also be questions about how the participant copes with the stress and uncertainty of DBMD.
 * For most of the questions, participants will rate their feelings on a scale. There will also be four open-ended questions."
+NCT02500381,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Last Update Post Date,2025-09-23,2024-12-16
 NCT03362502,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Last Update Post Date,2025-07-30,2025-07-09
 NCT03362502,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Overall Status,TERMINATED,ACTIVE_NOT_RECRUITING
 NCT03362502,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Completion Date,2025-07-28,2025-08-29
@@ -66,9 +66,14 @@ NCT04281485,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Po
 NCT04433234,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-19,2024-08-29
 NCT04587908,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-11,2024-08-14
 NCT04626674,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-11,2024-08-26
-NCT05135663,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Primary Completion Date,2027-04-30,2026-01-31
-NCT05135663,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Completion Date,2027-04-30,2026-07-31
-NCT05135663,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Last Update Post Date,2025-07-20,2024-11-26
+NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Brief Summary,"This is a Phase 1b/2 open-label study to evaluate the safety, tolerability, pharmacokinetic (PK), pharmacodynamic (PD), and clinical effects of intravenous (IV) WVE-N531 in patients with Duchenne muscular dystrophy (DMD). To participate in the study, patients must have a documented mutation of the DMD gene that is amenable to exon 53 skipping intervention. This study has 3 parts, Part A, Part B, including Part B Extension Arm, and Part C. Part A is completed. Part B is completed. Following completion of Part B, all patients elected to continue to receive study drug in the optional Part B open-label Extension Arm. Part C has been added to the study and will enroll new patients.","This is a Phase 1b/2 open-label study to evaluate the safety, tolerability, pharmacokinetic (PK), pharmacodynamic (PD), and clinical effects of intravenous (IV) WVE-N531 in patients with Duchenne muscular dystrophy (DMD). To participate in the study, patients must have a documented mutation of the DMD gene that is amenable to exon 53 skipping intervention. This study has 2 parts, Part A and Part B. Part A is completed. Part B is completed. Following completion of Part B, all patients have elected to continue to receive study drug in an optional open-label extension arm."
+NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Primary Outcome Measure,"Part A: Safety: Proportion of patients with adverse events (AEs), Part B: Pharmacodynamics: Dystrophin level (% normal dystrophin) as assessed by Western blot of muscle tissue following multiple doses of WVE-N531, Part C: Pharmacodynamics: Change from baseline dystrophin level (% normal dystrophin) as assessed by a validated assay analysis in muscle tissue following multiple doses of WVE-N531",Pharmacodynamics: Dystrophin level (% normal dystrophin) as assessed by Western blot of muscle tissue following multiple doses of WVE-N531
+NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Secondary Outcome Measure,"Part A: Pharmacokinetics: Concentration of WVE-N531 in muscle tissue, Part A: Pharmacodynamics: Dystrophin level (% normal dystrophin) as assessed by Western blot of muscle tissue following multiple doses of WVE-N531, Part B: North Star Ambulatory Assessment (NSAA) (Version 2.0), including time to stand and a timed 10-meter walk/run, with a range of 0 to 34 where higher scores indicate better outcome., Part B: Performance of the Upper Limb (PUL) (Version 2.0) with a range of 0 to 64 where higher scores indicate a better outcome., Part B: Stride Velocity 95th Centile (SV95C)/upper limb outcome (non-ambulatory patients), Part C: North Star Ambulatory Assessment (NSAA) (Version 2.0), including time to stand and a timed 10-meter walk/run, with a range of 0 to 34 where higher scores indicate better outcome., Part C: Performance of the Upper Limb (PUL) (Version 2.0) with a range of 0 to 64 where higher scores indicate a better outcome., Part C: Stride Velocity 95th Centile (SV95C)/upper limb outcome (non-ambulatory patients)","North Star Ambulatory Assessment (NSAA) (Version 2.0), including time to stand and a timed 10-meter walk/run, with a range of 0 to 34 where higher scores indicate better outcome., Performance of the Upper Limb (PUL) (Version 2.0) with a range of 0 to 64 where higher scores indicate a better outcome., Stride Velocity 95th Centile (SV95C)/upper limb outcome (non-ambulatory patients)"
+NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Minimum Age,4 Years,5 Years
+NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Enrollment Count,26.0,11.0
+NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Primary Completion Date,2026-06-27,2025-01-16
+NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Completion Date,2027-04-24,2026-10-01
+NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Last Update Post Date,2025-09-24,2025-02-19
 NCT05166109,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Overall Status,COMPLETED,ACTIVE_NOT_RECRUITING
 NCT05166109,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Enrollment Count,46.0,39.0
 NCT05166109,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Primary Completion Date,2025-08-18,2025-06-30
@@ -80,6 +85,10 @@ NCT05280730,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Primary Comple
 NCT05280730,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Completion Date,2024-09-30,2025-06-30
 NCT05280730,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-14,2025-06-03
 NCT05291091,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-07-04
+NCT05291091,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Brief Summary,"A study of sevasemten (EDG-5506) in Becker muscular dystrophy (known as CANYON) and pivotal cohort (known as GRAND CANYON). The EDG-5506-201 CANYON study was expanded to include an additional 120 adult participants in a cohort called GRAND CANYON, that is a multicenter, randomized, double-blind, placebo-controlled study to evaluate the safety and efficacy of sevasemten in adults with Becker.
+CANYON and GRAND CANYON are fully enrolled.","A study of sevasemten (EDG-5506) in Becker muscular dystrophy (known as CANYON) and pivotal cohort (known as GRAND CANYON). The EDG-5506-201 CANYON study was expanded to include an additional 120 adult participants in a cohort called GRAND CANYON, that is a multicenter, randomized, double-blind, placebo-controlled study to evaluate the safety and efficacy of sevasemten in adults with Becker.
+CANYON is fully enrolled; GRAND CANYON is currently enrolling."
+NCT05291091,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Last Update Post Date,2025-09-25,2025-09-03
 NCT05412394,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-13,2025-02-13
 NCT05429372,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-12,2025-07-09
 NCT05429372,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-08-12
@@ -89,7 +98,6 @@ NCT05689164,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Po
 NCT05689164,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Primary Completion Date,2025-09-05,2025-08-29
 NCT05689164,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Completion Date,2025-09-05,2025-08-29
 NCT05689164,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-08-11
-NCT05693142,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Last Update Post Date,2025-07-22,2025-07-09
 NCT05693142,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-13,2025-07-22
 NCT05693142,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Brief Summary,"RGX-202 is a gene therapy designed to deliver a transgene for a novel microdystrophin that includes functional elements of naturally-occurring dystrophin including the C-Terminal (CT) domain.
 This is a multicenter, open-label dose evaluation clinical study to assess the safety, tolerability, and clinical efficacy of a one-time intravenous (IV) dose of RGX-202 in participants with Duchenne.
@@ -113,7 +121,6 @@ NCT06392724,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Overall Status
 NCT06392724,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Start Date,2024-07-05,2024-07-01
 NCT06392724,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Last Update Post Date,2025-07-29,2024-07-08
 NCT06412328,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
-NCT06450639,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Last Update Post Date,2025-07-20,2025-06-22
 NCT06450639,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-15,2025-07-20
 NCT06450639,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-16,2025-08-15
 NCT06564974,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-05,2025-06-24
@@ -203,13 +210,11 @@ vi. Reaching toward distant objects in the front, left, and right directions.
 NCT06756633,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT06817382,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Start Date,2025-07-22,2025-05-31
 NCT06817382,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-17,2025-06-03
+NCT06817382,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Last Update Post Date,2025-09-23,2025-09-17
 NCT06867107,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Overall Status,ENROLLING_BY_INVITATION,NOT_YET_RECRUITING
 NCT06867107,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Start Date,2025-08-20,2025-07-15
 NCT06867107,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2025-05-15
 NCT06868784,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
-NCT06887491,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Brief Title,The Effect of Dual-tasking Program on Cognitive and Physical Functions and Independence in Activities of Daily Living in Children With Duchenne Muscular Dystrophy: A Single-blind Randomized Controlled Trial,The Effect of Dual-tasking Program on Cognitive and Physical Functions and Independence in Activities of Daily Living in Children with Duchenne Muscular Dystrophy: a Single-blind Randomized Controlled Trial
-NCT06887491,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Start Date,2025-11-14,2025-04-14
-NCT06887491,2025-07-28 07:30:36.421281,2025-07-21 07:33:27.431383,Last Update Post Date,2025-07-22,2025-03-20
 NCT06887491,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT07058662,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Overall Status,RECRUITING,NOT_YET_RECRUITING
 NCT07058662,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Start Date,2025-07-31,2025-06-30
