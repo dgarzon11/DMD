@@ -1,5 +1,4 @@
 NCTId,final_date,start_date,change,final_value,start_value
-NCT07188012,2025-09-29 07:24:18.405365,,New  Study  Added,,
 NCT01451281,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Brief Summary,"Background:
 \- Duchenne muscular dystrophy (DMD) is a disease in which the muscles are unable to make the protein dystrophin. Without this protein, the muscles become gradually weaker. A new medicine called GSK2402968 is being tested to see if it can help prevent or slow down this loss of muscle strength. In this study, boys with DMD and healthy volunteers will have different types of imaging studies to see which ones provide the best images of the muscles. This information will help researchers use these imaging techniques to test the safety and effectiveness of GSK2402968 and other agents.
 Objectives:
@@ -22,7 +21,6 @@ Design:
 * Healthy volunteers will have one 2-hour visit with three tests. Magnetic resonance imaging (MRI) scans of the skeletal muscles and heart and diaphragm muscles will be carried out. Muscle ultrasound imaging of leg and arm muscles will also be done. Participants should not perform heavy physical activity like school sports or long walks during the week before the visit.
 * Participants in the GSK2402968 study will have the same series of tests as the healthy volunteers. The tests will be given during the study screening phase. They will be repeated after 3 months and 6 months of receiving the study agent (GSK2402968 or placebo) and at 6 months after stopping the GSK study."
 NCT01910649,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Last Update Post Date,2016-11-07,2016-11-06
-NCT01982695,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Collaborator Name,"Boston Children's Hospital, University of California, Davis, University of Kansas Medical Center, University of Minnesota, St. Louis Children's Hospital","Boston Children's Hospital, University of California, Davis, Unverisity of Kansas Medical Center, University of Minnesota, St. Louis Children's Hospital"
 NCT02078076,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Last Update Post Date,2025-08-27,2016-02-24
 NCT02194725,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Brief Summary,"Background:
 \- Children with Duchenne/Becker Muscular Dystrophy (DBMD) slowly lose muscle function. They usually die at a young age. Some mothers adapt to the demands of caring for a child with this disease better than others. Studies show that a person s hope may positively affect how they cope and adapt. Researchers want to find out more about this. They want to develop ways to improve caregivers overall wellness.
@@ -46,13 +44,15 @@ Design:
 * The questionnaire will include basic demographic questions about the participant and the child. There will also be questions about how the participant copes with the stress and uncertainty of DBMD.
 * For most of the questions, participants will rate their feelings on a scale. There will also be four open-ended questions."
 NCT02500381,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Last Update Post Date,2025-09-23,2024-12-16
-NCT03362502,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Last Update Post Date,2025-07-30,2025-07-09
 NCT03362502,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Overall Status,TERMINATED,ACTIVE_NOT_RECRUITING
 NCT03362502,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Completion Date,2025-07-28,2025-08-29
 NCT03362502,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-15,2025-07-30
 NCT03368742,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-03,2025-06-18
 NCT03368742,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-09,2025-08-03
-NCT03836300,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Last Update Post Date,2025-07-31,2025-04-06
+NCT03863119,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status,AVAILABLE,APPROVED_FOR_MARKETING
+NCT03863119,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Brief Summary,"The intent of this protocol is to provide continued access to vamorolone for subjects in the United States and Canada who have completed the VBP15-LTE, VBP15- 004, or VBP15-006 protocols (and are thereby ineligible to enroll in another trial of vamorolone therapy), during the time a new drug application for vamorolone is under preparation and review.","The intent of this protocol is to provide continued access to vamorolone for subjects in the United States who Have Completed the VBP15-LTE, VBP15- 004, or VBP15-006 protocols (and are thereby ineligible to enroll in another trial of vamorolone therapy), during the time a new drug application for vamorolone is under preparation and review."
+NCT03863119,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Last Update Post Date,2025-09-30,2025-02-10
+NCT03936894,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status,UNKNOWN,ACTIVE_NOT_RECRUITING
 NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Overall Status,COMPLETED,ACTIVE_NOT_RECRUITING
 NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Has Results,True,False
 NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Primary Outcome Measure,Number of Participants With Unacceptable Toxicity.,Monitoring for the development of unacceptable toxicity.
@@ -106,20 +106,23 @@ This is a multicenter, open-label dose evaluation clinical study to assess the s
 NCT05693142,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2025-08-13
 NCT05996003,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Condition,"Duchenne Muscular Dystrophy, Exon 44, DMD",Duchenne Muscular Dystrophy
 NCT05996003,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-16,2025-06-05
+NCT06013839,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status,UNKNOWN,RECRUITING
 NCT06053814,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2024-12-17
 NCT06066580,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-07-04
+NCT06079736,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status,TERMINATED,ACTIVE_NOT_RECRUITING
+NCT06079736,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Primary Completion Date,2025-08-28,2025-04-01
+NCT06079736,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Completion Date,2025-08-28,2027-04-01
+NCT06079736,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Last Update Post Date,2025-10-01,2025-03-04
 NCT06093100,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-07,2024-09-19
 NCT06103006,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT06124196,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-11,2025-04-24
 NCT06128564,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-03,2025-07-08
 NCT06128564,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-08-03
+NCT06128564,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Last Update Post Date,2025-10-02,2025-09-03
 NCT06138639,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Last Update Post Date,2025-08-24,2025-06-17
 NCT06138639,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-09,2025-08-24
 NCT06270719,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Overall Status,ENROLLING_BY_INVITATION,RECRUITING
 NCT06270719,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-11,2025-07-04
-NCT06392724,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
-NCT06392724,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Start Date,2024-07-05,2024-07-01
-NCT06392724,2025-08-04 07:34:22.684684,2025-07-28 07:30:36.421281,Last Update Post Date,2025-07-29,2024-07-08
 NCT06412328,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT06450639,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-15,2025-07-20
 NCT06450639,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-16,2025-08-15
@@ -222,3 +225,4 @@ NCT07058662,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Last Update Po
 NCT07058662,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Collaborator Name,"Shanghai Mianyi Biopharmaceutical Co., Ltd., Shanghai Xinzhi BioMed Co., Ltd., Belief BioMed Limited","Shanghai Mianyi Biopharmaceutical Co., Ltd., Shanghai Xinzhi BioMed Co., Ltd, Belief BioMed Limited"
 NCT07127978,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Condition,Duchene Muscular Dystrophy,"Duchene Muscular Dystrophy, Duchene&Amp;Amp;#39;s Muscular Dystrophy"
 NCT07127978,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2025-08-17
+NCT07160634,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Last Update Post Date,2025-10-02,2025-09-08
