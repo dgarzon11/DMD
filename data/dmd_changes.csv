@@ -1,4 +1,5 @@
 NCTId,final_date,start_date,change,final_value,start_value
+NCT07209332,2025-10-13 07:24:44.496989,,New  Study  Added,,
 NCT01451281,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Brief Summary,"Background:
 \- Duchenne muscular dystrophy (DMD) is a disease in which the muscles are unable to make the protein dystrophin. Without this protein, the muscles become gradually weaker. A new medicine called GSK2402968 is being tested to see if it can help prevent or slow down this loss of muscle strength. In this study, boys with DMD and healthy volunteers will have different types of imaging studies to see which ones provide the best images of the muscles. This information will help researchers use these imaging techniques to test the safety and effectiveness of GSK2402968 and other agents.
 Objectives:
@@ -47,7 +48,6 @@ NCT02500381,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Last Update Po
 NCT03362502,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Overall Status,TERMINATED,ACTIVE_NOT_RECRUITING
 NCT03362502,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Completion Date,2025-07-28,2025-08-29
 NCT03362502,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-15,2025-07-30
-NCT03368742,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-03,2025-06-18
 NCT03368742,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-09,2025-08-03
 NCT03863119,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status,AVAILABLE,APPROVED_FOR_MARKETING
 NCT03863119,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Brief Summary,"The intent of this protocol is to provide continued access to vamorolone for subjects in the United States and Canada who have completed the VBP15-LTE, VBP15- 004, or VBP15-006 protocols (and are thereby ineligible to enroll in another trial of vamorolone therapy), during the time a new drug application for vamorolone is under preparation and review.","The intent of this protocol is to provide continued access to vamorolone for subjects in the United States who Have Completed the VBP15-LTE, VBP15- 004, or VBP15-006 protocols (and are thereby ineligible to enroll in another trial of vamorolone therapy), during the time a new drug application for vamorolone is under preparation and review."
@@ -74,6 +74,8 @@ NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Enrollment Cou
 NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Primary Completion Date,2026-06-27,2025-01-16
 NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Completion Date,2027-04-24,2026-10-01
 NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Last Update Post Date,2025-09-24,2025-02-19
+NCT04906460,2025-10-13 07:24:44.496989,2025-10-06 07:23:59.452506,Overall Status,RECRUITING,ACTIVE_NOT_RECRUITING
+NCT04906460,2025-10-13 07:24:44.496989,2025-10-06 07:23:59.452506,Last Update Post Date,2025-10-06,2025-09-24
 NCT05166109,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Overall Status,COMPLETED,ACTIVE_NOT_RECRUITING
 NCT05166109,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Enrollment Count,46.0,39.0
 NCT05166109,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Primary Completion Date,2025-08-18,2025-06-30
@@ -104,6 +106,7 @@ This is a multicenter, open-label dose evaluation clinical study to assess the s
 For additional information on how to participate (or be considered for the study), please follow this link: https://mytomorrows.com/trials/affinity-duchenne","RGX-202 is a gene therapy designed to deliver a transgene for a novel microdystrophin that includes functional elements of naturally-occurring dystrophin including the C-Terminal (CT) domain.
 This is a multicenter, open-label dose evaluation clinical study to assess the safety, tolerability, and clinical efficacy of a one-time intravenous (IV) dose of RGX-202 in participants with Duchenne."
 NCT05693142,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2025-08-13
+NCT05693142,2025-10-13 07:24:44.496989,2025-10-06 07:23:59.452506,Last Update Post Date,2025-10-08,2025-09-10
 NCT05996003,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Condition,"Duchenne Muscular Dystrophy, Exon 44, DMD",Duchenne Muscular Dystrophy
 NCT05996003,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-16,2025-06-05
 NCT06013839,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status,UNKNOWN,RECRUITING
@@ -113,20 +116,18 @@ NCT06079736,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status
 NCT06079736,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Primary Completion Date,2025-08-28,2025-04-01
 NCT06079736,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Completion Date,2025-08-28,2027-04-01
 NCT06079736,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Last Update Post Date,2025-10-01,2025-03-04
-NCT06093100,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-07,2024-09-19
 NCT06103006,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT06124196,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-11,2025-04-24
-NCT06128564,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-03,2025-07-08
 NCT06128564,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Last Update Post Date,2025-09-03,2025-08-03
 NCT06128564,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Last Update Post Date,2025-10-02,2025-09-03
 NCT06138639,2025-09-01 07:24:20.662060,2025-08-25 07:25:05.214668,Last Update Post Date,2025-08-24,2025-06-17
 NCT06138639,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-09,2025-08-24
 NCT06270719,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Overall Status,ENROLLING_BY_INVITATION,RECRUITING
 NCT06270719,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-11,2025-07-04
+NCT06270719,2025-10-13 07:24:44.496989,2025-10-06 07:23:59.452506,Last Update Post Date,2025-10-07,2025-08-11
 NCT06412328,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT06450639,2025-08-18 07:27:28.918582,2025-08-11 07:30:05.569301,Last Update Post Date,2025-08-15,2025-07-20
 NCT06450639,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-16,2025-08-15
-NCT06564974,2025-08-11 07:30:05.569301,2025-08-04 07:34:22.684684,Last Update Post Date,2025-08-05,2025-06-24
 NCT06597656,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Overall Status,TERMINATED,RECRUITING
 NCT06597656,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Enrollment Count,3.0,10.0
 NCT06597656,2025-09-08 07:23:27.695799,2025-09-01 07:24:20.662060,Primary Completion Date,2025-08-05,2025-11-30
