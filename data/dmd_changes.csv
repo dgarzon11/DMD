@@ -6,20 +6,11 @@ NCT02500381,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Last Update Po
 NCT03362502,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Overall Status,TERMINATED,ACTIVE_NOT_RECRUITING
 NCT03362502,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Completion Date,2025-07-28,2025-08-29
 NCT03362502,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-15,2025-07-30
-NCT03368742,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-09,2025-08-03
 NCT03368742,2025-11-03 07:24:26.813865,2025-10-27 07:23:55.233479,Last Update Post Date,2025-10-31,2025-09-09
 NCT03863119,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status,AVAILABLE,APPROVED_FOR_MARKETING
 NCT03863119,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Brief Summary,"The intent of this protocol is to provide continued access to vamorolone for subjects in the United States and Canada who have completed the VBP15-LTE, VBP15- 004, or VBP15-006 protocols (and are thereby ineligible to enroll in another trial of vamorolone therapy), during the time a new drug application for vamorolone is under preparation and review.","The intent of this protocol is to provide continued access to vamorolone for subjects in the United States who Have Completed the VBP15-LTE, VBP15- 004, or VBP15-006 protocols (and are thereby ineligible to enroll in another trial of vamorolone therapy), during the time a new drug application for vamorolone is under preparation and review."
 NCT03863119,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Last Update Post Date,2025-09-30,2025-02-10
 NCT03936894,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status,UNKNOWN,ACTIVE_NOT_RECRUITING
-NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Overall Status,COMPLETED,ACTIVE_NOT_RECRUITING
-NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Has Results,True,False
-NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Primary Outcome Measure,Number of Participants With Unacceptable Toxicity.,Monitoring for the development of unacceptable toxicity.
-NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Secondary Outcome Measure,"Change in Dystrophin Expression From Baseline Following Treatment With scAAV9.U7.ACCA., Change in Dystrophin Expression From Baseline Following Treatment With scAAV9.U7.ACCA., Changes in Percent of Exon 2 Skipping/Exclusion in the Dystrophin mRNA Transcript.","Change in dystrophin expression from baseline following treatment with scAAV9.U7.ACCA., Change in dystrophin expression from baseline following treatment with scAAV9.U7.ACCA., Changes in exon 2 inclusion in the dystrophin mRNA transcript."
-NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Collaborator Name,"Audentes Therapeutics, Astellas Pharma Inc",Audentes Therapeutics
-NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Primary Completion Date,2023-11-13,2023-11-19
-NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Completion Date,2025-07-01,2025-11-19
-NCT04240314,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-11,2023-02-09
 NCT04281485,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Last Update Post Date,2025-10-20,2025-09-03
 NCT04428476,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Brief Summary,"This Phase 2, multi-center, open-label extension trial will provide deramiocel (CAP-1002) to subjects that were enrolled in the HOPE-2 trial and completed 12 months of follow-up. The trial will explore the safety and efficacy of twenty intravenous administrations of deramiocel, each separated by three months, over a period of approximately 60 months. Following completion of the initial open-label phase (Month 60), subjects who have completed all Month 60 assessments will be eligible to continue into a long-term open label extension (LT-OLE) period and can continue to receive deramiocel once every 3 months until deramiocel is commercially available or the sponsor terminates the study, or the subject withdraws consent or study participation is terminated by the sponsor.
 Subjects will undergo a targeted screening during a 30-day screening period, eligible subjects will then undergo baseline safety and efficacy assessments on Day 1 prior to their first infusion of deramiocel.
@@ -30,7 +21,6 @@ All deramiocel infusions will be conducted in an outpatient setting at the inves
 NCT04428476,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Completion Date,2026-05-01,2026-03-01
 NCT04428476,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Last Update Post Date,2025-11-03,2025-07-03
 NCT04433234,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-19,2024-08-29
-NCT04587908,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-11,2024-08-14
 NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Brief Summary,"This is a Phase 1b/2 open-label study to evaluate the safety, tolerability, pharmacokinetic (PK), pharmacodynamic (PD), and clinical effects of intravenous (IV) WVE-N531 in patients with Duchenne muscular dystrophy (DMD). To participate in the study, patients must have a documented mutation of the DMD gene that is amenable to exon 53 skipping intervention. This study has 3 parts, Part A, Part B, including Part B Extension Arm, and Part C. Part A is completed. Part B is completed. Following completion of Part B, all patients elected to continue to receive study drug in the optional Part B open-label Extension Arm. Part C has been added to the study and will enroll new patients.","This is a Phase 1b/2 open-label study to evaluate the safety, tolerability, pharmacokinetic (PK), pharmacodynamic (PD), and clinical effects of intravenous (IV) WVE-N531 in patients with Duchenne muscular dystrophy (DMD). To participate in the study, patients must have a documented mutation of the DMD gene that is amenable to exon 53 skipping intervention. This study has 2 parts, Part A and Part B. Part A is completed. Part B is completed. Following completion of Part B, all patients have elected to continue to receive study drug in an optional open-label extension arm."
 NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Primary Outcome Measure,"Part A: Safety: Proportion of patients with adverse events (AEs), Part B: Pharmacodynamics: Dystrophin level (% normal dystrophin) as assessed by Western blot of muscle tissue following multiple doses of WVE-N531, Part C: Pharmacodynamics: Change from baseline dystrophin level (% normal dystrophin) as assessed by a validated assay analysis in muscle tissue following multiple doses of WVE-N531",Pharmacodynamics: Dystrophin level (% normal dystrophin) as assessed by Western blot of muscle tissue following multiple doses of WVE-N531
 NCT04906460,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Secondary Outcome Measure,"Part A: Pharmacokinetics: Concentration of WVE-N531 in muscle tissue, Part A: Pharmacodynamics: Dystrophin level (% normal dystrophin) as assessed by Western blot of muscle tissue following multiple doses of WVE-N531, Part B: North Star Ambulatory Assessment (NSAA) (Version 2.0), including time to stand and a timed 10-meter walk/run, with a range of 0 to 34 where higher scores indicate better outcome., Part B: Performance of the Upper Limb (PUL) (Version 2.0) with a range of 0 to 64 where higher scores indicate a better outcome., Part B: Stride Velocity 95th Centile (SV95C)/upper limb outcome (non-ambulatory patients), Part C: North Star Ambulatory Assessment (NSAA) (Version 2.0), including time to stand and a timed 10-meter walk/run, with a range of 0 to 34 where higher scores indicate better outcome., Part C: Performance of the Upper Limb (PUL) (Version 2.0) with a range of 0 to 64 where higher scores indicate a better outcome., Part C: Stride Velocity 95th Centile (SV95C)/upper limb outcome (non-ambulatory patients)","North Star Ambulatory Assessment (NSAA) (Version 2.0), including time to stand and a timed 10-meter walk/run, with a range of 0 to 34 where higher scores indicate better outcome., Performance of the Upper Limb (PUL) (Version 2.0) with a range of 0 to 64 where higher scores indicate a better outcome., Stride Velocity 95th Centile (SV95C)/upper limb outcome (non-ambulatory patients)"
@@ -61,20 +51,24 @@ NCT05429372,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Primary Comple
 NCT05429372,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Completion Date,2025-10-03,2025-09-19
 NCT05429372,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Last Update Post Date,2025-10-21,2025-09-03
 NCT05464446,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
+NCT05540860,2025-11-17 07:25:14.599826,2025-11-10 07:23:57.616684,Secondary Outcome Measure,"Incidence of laboratory test-related treatment emergent adverse events, Pharmacokinetics as measured by steady state plasma concentration, Change from Baseline in serum creatinine kinase, Change from Baseline in fast skeletal muscle troponin I","Incidence of abnormal clinical chemistry test results, Incidence of abnormal hematology test results, Incidence of abnormal coagulation test results, Incidence of abnormal urinalysis test results, Pharmacokinetics as measured by steady state plasma concentration, Change from Baseline in serum creatinine kinase, Change from Baseline in fast skeletal muscle troponin I"
+NCT05540860,2025-11-17 07:25:14.599826,2025-11-10 07:23:57.616684,Primary Completion Date,2027-01-01,2026-02-01
+NCT05540860,2025-11-17 07:25:14.599826,2025-11-10 07:23:57.616684,Completion Date,2027-01-01,2026-02-01
+NCT05540860,2025-11-17 07:25:14.599826,2025-11-10 07:23:57.616684,Last Update Post Date,2025-11-12,2024-12-27
 NCT05689164,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Overall Status,TERMINATED,ACTIVE_NOT_RECRUITING
 NCT05689164,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Primary Completion Date,2025-09-24,2025-09-05
 NCT05689164,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Completion Date,2025-09-24,2025-09-05
 NCT05689164,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Last Update Post Date,2025-10-21,2025-09-03
-NCT05693142,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Brief Summary,"RGX-202 is a gene therapy designed to deliver a transgene for a novel microdystrophin that includes functional elements of naturally-occurring dystrophin including the C-Terminal (CT) domain.
-This is a multicenter, open-label dose evaluation clinical study to assess the safety, tolerability, and clinical efficacy of a one-time intravenous (IV) dose of RGX-202 in participants with Duchenne.
-For additional information on how to participate (or be considered for the study), please follow this link: https://mytomorrows.com/trials/affinity-duchenne","RGX-202 is a gene therapy designed to deliver a transgene for a novel microdystrophin that includes functional elements of naturally-occurring dystrophin including the C-Terminal (CT) domain.
-This is a multicenter, open-label dose evaluation clinical study to assess the safety, tolerability, and clinical efficacy of a one-time intravenous (IV) dose of RGX-202 in participants with Duchenne."
-NCT05693142,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2025-08-13
 NCT05693142,2025-10-13 07:24:44.496989,2025-10-06 07:23:59.452506,Last Update Post Date,2025-10-08,2025-09-10
+NCT05693142,2025-11-17 07:25:14.599826,2025-11-10 07:23:57.616684,Brief Summary,"RGX-202 is a gene therapy designed to deliver a transgene for a novel microdystrophin that includes functional elements of naturally-occurring dystrophin including the C-Terminal (CT) domain.
+This is a multicenter, open-label dose evaluation clinical study to assess the safety, tolerability, and clinical efficacy of a one-time intravenous (IV) dose of RGX-202 in participants with Duchenne.
+For additional information on how to participate (or be considered for the study), please follow this link: https://mytomorro.ws/affinity-ct-gov","RGX-202 is a gene therapy designed to deliver a transgene for a novel microdystrophin that includes functional elements of naturally-occurring dystrophin including the C-Terminal (CT) domain.
+This is a multicenter, open-label dose evaluation clinical study to assess the safety, tolerability, and clinical efficacy of a one-time intravenous (IV) dose of RGX-202 in participants with Duchenne.
+For additional information on how to participate (or be considered for the study), please follow this link: https://mytomorrows.com/trials/affinity-duchenne"
+NCT05693142,2025-11-17 07:25:14.599826,2025-11-10 07:23:57.616684,Last Update Post Date,2025-11-10,2025-10-08
 NCT05996003,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Condition,"Duchenne Muscular Dystrophy, Exon 44, DMD",Duchenne Muscular Dystrophy
 NCT05996003,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-16,2025-06-05
 NCT06013839,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status,UNKNOWN,RECRUITING
-NCT06053814,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2024-12-17
 NCT06066580,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Last Update Post Date,2025-11-03,2025-09-03
 NCT06079736,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status,TERMINATED,ACTIVE_NOT_RECRUITING
 NCT06079736,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Primary Completion Date,2025-08-28,2025-04-01
@@ -90,28 +84,21 @@ NCT06128564,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Last Update Po
 NCT06128564,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Primary Completion Date,2034-01-30,2033-05-30
 NCT06128564,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Completion Date,2034-01-30,2033-05-30
 NCT06128564,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Last Update Post Date,2025-11-03,2025-10-02
-NCT06138639,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-09,2025-08-24
 NCT06138639,2025-10-20 07:24:46.633691,2025-10-13 07:24:44.496989,Last Update Post Date,2025-10-14,2025-09-09
 NCT06270719,2025-10-13 07:24:44.496989,2025-10-06 07:23:59.452506,Last Update Post Date,2025-10-07,2025-08-11
 NCT06412328,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT06450639,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-16,2025-08-15
 NCT06450639,2025-10-20 07:24:46.633691,2025-10-13 07:24:44.496989,Last Update Post Date,2025-10-16,2025-09-16
 NCT06450639,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Last Update Post Date,2025-11-06,2025-10-16
-NCT06606340,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2024-09-23
 NCT06643923,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT06756633,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT06817382,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Start Date,2025-07-22,2025-05-31
 NCT06817382,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Last Update Post Date,2025-09-17,2025-06-03
 NCT06817382,2025-09-29 07:24:18.405365,2025-09-22 07:24:44.677743,Last Update Post Date,2025-09-23,2025-09-17
 NCT06817382,2025-11-03 07:24:26.813865,2025-10-27 07:23:55.233479,Last Update Post Date,2025-10-30,2025-09-23
-NCT06867107,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Overall Status,ENROLLING_BY_INVITATION,NOT_YET_RECRUITING
-NCT06867107,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Start Date,2025-08-20,2025-07-15
-NCT06867107,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2025-05-15
+NCT06817382,2025-11-17 07:25:14.599826,2025-11-10 07:23:57.616684,Last Update Post Date,2025-11-07,2025-10-30
 NCT06868784,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
 NCT06887491,2025-09-22 07:24:44.677743,2025-09-15 07:24:11.470430,Lead Sponsor Name,Lokman Hekim University,Lokman Hekim Üniversitesi
-NCT07058662,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Collaborator Name,"Shanghai Mianyi Biopharmaceutical Co., Ltd., Shanghai Xinzhi BioMed Co., Ltd., Belief BioMed Limited","Shanghai Mianyi Biopharmaceutical Co., Ltd., Shanghai Xinzhi BioMed Co., Ltd, Belief BioMed Limited"
-NCT07127978,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Condition,Duchene Muscular Dystrophy,"Duchene Muscular Dystrophy, Duchene&Amp;Amp;#39;s Muscular Dystrophy"
-NCT07127978,2025-09-15 07:24:11.470430,2025-09-08 07:23:27.695799,Last Update Post Date,2025-09-10,2025-08-17
 NCT07127978,2025-10-20 07:24:46.633691,2025-10-13 07:24:44.496989,Overall Status,RECRUITING,NOT_YET_RECRUITING
 NCT07127978,2025-10-20 07:24:46.633691,2025-10-13 07:24:44.496989,Start Date,2025-10-31,2025-09-15
 NCT07127978,2025-10-20 07:24:46.633691,2025-10-13 07:24:44.496989,Last Update Post Date,2025-10-16,2025-09-10
