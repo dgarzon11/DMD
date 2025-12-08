@@ -1,6 +1,4 @@
 NCTId,final_date,start_date,change,final_value,start_value
-NCT07250737,2025-12-01 07:28:07.827306,,New  Study  Added,,
-NCT07254988,2025-12-01 07:28:07.827306,,New  Study  Added,,
 NCT01484678,2025-10-20 07:24:46.633691,2025-10-13 07:24:44.496989,Primary Completion Date,2026-08-31,2025-08-31
 NCT01484678,2025-10-20 07:24:46.633691,2025-10-13 07:24:44.496989,Completion Date,2026-08-31,2025-08-31
 NCT01484678,2025-10-20 07:24:46.633691,2025-10-13 07:24:44.496989,Last Update Post Date,2025-10-15,2025-07-09
@@ -10,10 +8,7 @@ NCT02500381,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Overall Status
 NCT02500381,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Completion Date,2025-10-16,2025-10-17
 NCT02500381,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Last Update Post Date,2025-11-18,2025-09-23
 NCT03368742,2025-11-03 07:24:26.813865,2025-10-27 07:23:55.233479,Last Update Post Date,2025-10-31,2025-09-09
-NCT03863119,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status,AVAILABLE,APPROVED_FOR_MARKETING
-NCT03863119,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Brief Summary,"The intent of this protocol is to provide continued access to vamorolone for subjects in the United States and Canada who have completed the VBP15-LTE, VBP15- 004, or VBP15-006 protocols (and are thereby ineligible to enroll in another trial of vamorolone therapy), during the time a new drug application for vamorolone is under preparation and review.","The intent of this protocol is to provide continued access to vamorolone for subjects in the United States who Have Completed the VBP15-LTE, VBP15- 004, or VBP15-006 protocols (and are thereby ineligible to enroll in another trial of vamorolone therapy), during the time a new drug application for vamorolone is under preparation and review."
-NCT03863119,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Last Update Post Date,2025-09-30,2025-02-10
-NCT03936894,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status,UNKNOWN,ACTIVE_NOT_RECRUITING
+NCT03368742,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-03,2025-10-31
 NCT04281485,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Last Update Post Date,2025-10-20,2025-09-03
 NCT04428476,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Brief Summary,"This Phase 2, multi-center, open-label extension trial will provide deramiocel (CAP-1002) to subjects that were enrolled in the HOPE-2 trial and completed 12 months of follow-up. The trial will explore the safety and efficacy of twenty intravenous administrations of deramiocel, each separated by three months, over a period of approximately 60 months. Following completion of the initial open-label phase (Month 60), subjects who have completed all Month 60 assessments will be eligible to continue into a long-term open label extension (LT-OLE) period and can continue to receive deramiocel once every 3 months until deramiocel is commercially available or the sponsor terminates the study, or the subject withdraws consent or study participation is terminated by the sponsor.
 Subjects will undergo a targeted screening during a 30-day screening period, eligible subjects will then undergo baseline safety and efficacy assessments on Day 1 prior to their first infusion of deramiocel.
@@ -37,7 +32,12 @@ NCT05185622,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Has Results,Tr
 NCT05185622,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Primary Outcome Measure,"Number of Participants With Any Adverse Events as Assessed by Common Terminology Criteria for Adverse Events Version 4.03 (CTCAE v4.03), Number of Participants With Drug Related Adverse Events as Assessed by Common Terminology Criteria for Adverse Events Version 4.03 (CTCAE v4.03), Number of Participants With Severe Adverse Events as Assessed by Common Terminology Criteria for Adverse Events Version 4.03 (CTCAE v4.03), Number of Participants With Serious Adverse Events as Assessed by Common Terminology Criteria for Adverse Events Version 4.03 (CTCAE v4.03), Number of Participants With Adverse Events as Assessed by Common Terminology Criteria for Adverse Events Version 4.03 (CTCAE v4.03) Leading to Study Treatment Discontinuation, Change in Height (Absolute) From Baseline to Week 12, Change in Height (Percentile) From Baseline to Week 12, Change in Height (Z-score) From Baseline to Week 12, Change in Weight (Absolute) From Baseline to Week 12, Change in Weight (Percentile) From Baseline to Week 12, Change in Weight (Z-score) From Baseline to Week 12, Change in Body Mass Index (BMI) (Absolute) From Baseline to Week 12, Change in Body Mass Index (BMI) (Percentile) From Baseline to Week 12, Change in Body Mass Index (BMI) (Z-score) From Baseline to Week 12, Change in Diastolic Blood Pressure, Change in Systolic Blood Pressure, Number of Participants With Treatment Emergent Cushingoid Features, Number of Participants With Clinically Significant Treatment-emergent Abnormal Clinical Laboratory Test Result, Categorical Analysis of QTcF at Week 12, Number of Eyes With Cataract, Number of Eyes With Glaucoma","Change in Body Mass Index (BMI) from baseline to Week 12, Change in Body Mass Index (BMI) z-score from baseline to Week 12, Change in Weight from baseline to each of the scheduled on treatment and post-treatment assessment time points, Change in Height from baseline to Week 12, Change in Height z score from baseline to Week 12, Change in sitting blood pressure from baseline to each of the scheduled on-treatment and post-treatment assessment time points, Change in heart rate from baseline to each of the scheduled on-treatment and post-treatment assessment time points, Change in respiratory rate from baseline to each of the scheduled on-treatment and post-treatment assessment time points, Change in body temperature from baseline to each of the scheduled on-treatment and post-treatment assessment time points, Number of participants with Cushingoid features, Number of participants with abnormal blood laboratory test results, Number of participants with abnormal urine laboratory test results, Number of participants with abnormal ECGs, Number of participants with Glaucoma, Number of participants with Cataracts, Number of Participants with Adverse Events as Assessed by Common Terminology Criteria for Adverse Events version 4.03 (CTCAE v4.03)"
 NCT05185622,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Secondary Outcome Measure,"Pre-dose and Post-dose Plasma Concentration Measurements of Vamorolone at Day 1 and Week 2, Descriptive Statistics of PK Parameters - Tmax, Descriptive Statistics of PK Parameters - Cmax, Descriptive Statistics of PK Parameters in Subjects Aged 2 to 4 Years - AUC 0-6, Descriptive Statistics of PK Parameters in Subjects Aged 7 to 18 Years - AUC 0-inf","Area under the Curve infinity (AUCinf) following oral administration, Change in morning cortisol concentration from baseline to Week 12, Change in fasting serum concentration of glucose from baseline to Week 12, Change in fasting serum concentration of insulin from baseline to Week 12, Change in serum concentration of hemoglobin A1c (HbA1c) from baseline to Week 12"
 NCT05185622,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Last Update Post Date,2025-10-24,2024-10-16
+NCT05249361,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Overall Status,UNKNOWN,RECRUITING
 NCT05291091,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Last Update Post Date,2025-11-03,2025-09-25
+NCT05291091,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Start Date,2022-11-10,2022-07-06
+NCT05291091,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Primary Completion Date,2026-09-01,2026-08-01
+NCT05291091,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Completion Date,2026-09-01,2026-08-01
+NCT05291091,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-01,2025-11-03
 NCT05429372,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Overall Status,TERMINATED,ACTIVE_NOT_RECRUITING
 NCT05429372,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Primary Completion Date,2025-10-03,2025-09-19
 NCT05429372,2025-10-27 07:23:55.233479,2025-10-20 07:24:46.633691,Completion Date,2025-10-03,2025-09-19
@@ -62,21 +62,21 @@ For additional information on how to participate (or be considered for the study
 This is a multicenter, open-label dose evaluation clinical study to assess the safety, tolerability, and clinical efficacy of a one-time intravenous (IV) dose of RGX-202 in participants with Duchenne.
 For additional information on how to participate (or be considered for the study), please follow this link: https://mytomorrows.com/trials/affinity-duchenne"
 NCT05693142,2025-11-17 07:25:14.599826,2025-11-10 07:23:57.616684,Last Update Post Date,2025-11-10,2025-10-08
-NCT06013839,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status,UNKNOWN,RECRUITING
+NCT05996003,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-03,2025-09-16
 NCT06066580,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Last Update Post Date,2025-11-03,2025-09-03
-NCT06079736,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Overall Status,TERMINATED,ACTIVE_NOT_RECRUITING
-NCT06079736,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Primary Completion Date,2025-08-28,2025-04-01
-NCT06079736,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Completion Date,2025-08-28,2027-04-01
-NCT06079736,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Last Update Post Date,2025-10-01,2025-03-04
+NCT06066580,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-01,2025-11-03
+NCT06079736,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Start Date,2024-01-03,2024-01-08
+NCT06079736,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-02,2025-10-01
 NCT06093100,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Last Update Post Date,2025-11-06,2025-08-07
 NCT06100887,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Secondary Outcome Measure,"Incidence of laboratory test-related treatment emergent adverse events, Pharmacokinetics as measured by steady state plasma concentration, Change from Baseline in serum creatine kinase, Change from Baseline in fast skeletal muscle troponin I","Incidence of abnormal clinical chemistry test results, Incidence of abnormal hematology test results, Incidence of abnormal coagulation test results, Incidence of abnormal urinalysis test results, Pharmacokinetics as measured by steady state plasma concentration, Change from Baseline in serum creatine kinase, Change from Baseline in fast skeletal muscle troponin I"
 NCT06100887,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Primary Completion Date,2027-03-01,2025-10-01
 NCT06100887,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Completion Date,2027-03-01,2025-10-01
 NCT06100887,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Last Update Post Date,2025-11-06,2025-05-18
-NCT06128564,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Last Update Post Date,2025-10-02,2025-09-03
+NCT06109103,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Overall Status,UNKNOWN,NOT_YET_RECRUITING
 NCT06128564,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Primary Completion Date,2034-01-30,2033-05-30
 NCT06128564,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Completion Date,2034-01-30,2033-05-30
 NCT06128564,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Last Update Post Date,2025-11-03,2025-10-02
+NCT06128564,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-02,2025-11-03
 NCT06138639,2025-10-20 07:24:46.633691,2025-10-13 07:24:44.496989,Last Update Post Date,2025-10-14,2025-09-09
 NCT06241950,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Overall Status,TERMINATED,ENROLLING_BY_INVITATION
 NCT06241950,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Enrollment Count,5.0,6.0
@@ -84,8 +84,14 @@ NCT06241950,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Primary Comple
 NCT06241950,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Completion Date,2025-10-10,2027-10-31
 NCT06241950,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Last Update Post Date,2025-11-20,2025-03-03
 NCT06270719,2025-10-13 07:24:44.496989,2025-10-06 07:23:59.452506,Last Update Post Date,2025-10-07,2025-08-11
+NCT06270719,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-02,2025-10-07
+NCT06363357,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Primary Outcome Measure,"Performance of the upper limb module 2.0 (PUL 2.0), Active Range of motion, Functional workspace, Goal Attainment Scale (GAS), Surface electromyography (sEMG), Heart rate, Blood pressure, Numeral Rating Scale for Pain, Box and block test","Performance of the upper limb module 2.0 (PUL 2.0), Active Range of motion, Functional workspace, Goal Attainment Scale (GAS), Surface electromyography (sEMG)"
+NCT06363357,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-03,2025-07-11
 NCT06450639,2025-10-20 07:24:46.633691,2025-10-13 07:24:44.496989,Last Update Post Date,2025-10-16,2025-09-16
 NCT06450639,2025-11-10 07:23:57.616684,2025-11-03 07:24:26.813865,Last Update Post Date,2025-11-06,2025-10-16
+NCT06450639,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Primary Completion Date,2026-09-30,2026-11-30
+NCT06450639,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Completion Date,2028-06-30,2027-11-15
+NCT06450639,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-04,2025-11-06
 NCT06682585,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Overall Status,COMPLETED,NOT_YET_RECRUITING
 NCT06682585,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Enrollment Count,9.0,10.0
 NCT06682585,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Last Update Post Date,2025-11-21,2024-11-12
@@ -108,9 +114,9 @@ Participants are allowed to continue receiving their standard of care therapy fo
 NCT07037862,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Primary Outcome Measure,Number of participants with Treatment Emergent Adverse Events (TEAEs) according to study protocol (Part A and OL Period),Number of participants with Treatment Emergent Adverse Events (TEAEs) according to study protocol (Part A)
 NCT07037862,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Secondary Outcome Measure,"Plasma, muscle, and urine concentration of ENTR-601-44 and its final metabolite (Part A and OL Period), Change from baseline to End of Part A in dystrophin by Western blot from muscle biopsy (Part A), Change from baseline to End of Part A in dystrophin expression and localization from muscle biopsy (Part A), Percent change from baseline to End of Part A in exon 44 skipping measured in muscle biopsy at End of Study (Part A), Anti-drug antibody (ADA) and anti-dystrophin antibody in serum (Part A and OL Period), Change from baseline to End of OL Period in 10-Meter Walk/Run (10MWR) (Part A and OL Period), Change from baseline to End of OL Period in Timed Rise from Floor (Part A and OL Period), Change from baseline to End of OL Period in Timed 4-Stair Climb (4SC) (Part A and OL Period), Change from baseline to End of OL Period in 95th centile Stride Velocity (SV95C) (Part A and OL Period), Change from baseline to End of OL Period in North Star Ambulatory Assessment (NSAA) (Part A and OL Period), Change from baseline to End of OL Period in Performance of the Upper Limb v2.0 (PUL 2.0) (Part A and OL Period)","Plasma, muscle, and urine concentration of ENTR-601-44 and its final metabolite (Part A), Change from baseline in dystrophin by Western blot from muscle biopsy at End of Study (Part A), Change from baseline in dystrophin expression and localization from muscle biopsy at End of Study (Part A), Percent change from baseline in exon 44 skipping measured in muscle biopsy at End of Study (Part A), Anti-drug antibody (ADA) and anti-dystrophin antibody in serum (Part A)"
 NCT07037862,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Last Update Post Date,2025-11-21,2025-07-01
+NCT07058662,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-04,2025-08-24
 NCT07127978,2025-10-20 07:24:46.633691,2025-10-13 07:24:44.496989,Overall Status,RECRUITING,NOT_YET_RECRUITING
 NCT07127978,2025-10-20 07:24:46.633691,2025-10-13 07:24:44.496989,Start Date,2025-10-31,2025-09-15
 NCT07127978,2025-10-20 07:24:46.633691,2025-10-13 07:24:44.496989,Last Update Post Date,2025-10-16,2025-09-10
 NCT07127978,2025-11-03 07:24:26.813865,2025-10-27 07:23:55.233479,Start Date,2025-10-23,2025-10-31
 NCT07127978,2025-11-03 07:24:26.813865,2025-10-27 07:23:55.233479,Last Update Post Date,2025-10-30,2025-10-16
-NCT07160634,2025-10-06 07:23:59.452506,2025-09-29 07:24:18.405365,Last Update Post Date,2025-10-02,2025-09-08
