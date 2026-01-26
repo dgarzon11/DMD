@@ -1,13 +1,6 @@
 NCTId,final_date,start_date,change,final_value,start_value
-NCT07347548,2026-01-19 07:34:29.862670,,New  Study  Added,,
-NCT07332013,2026-01-19 07:34:29.862670,,New  Study  Added,,
-NCT07338812,2026-01-19 07:34:29.862670,,New  Study  Added,,
-NCT01648634,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Collaborator Name,"Association Française contre les Myopathies (AFM), Paris, URC-CIC Paris Descartes Necker Cochin","Association Française contre les Myopathies (AFM), Paris"
-NCT01648634,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Last Update Post Date,2025-11-20,2021-09-28
+NCT07356063,2026-01-26 07:33:43.630593,,New  Study  Added,,
 NCT02413450,2026-01-19 07:34:29.862670,2026-01-12 07:33:06.704464,Last Update Post Date,2026-01-16,2025-01-31
-NCT02500381,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Overall Status,COMPLETED,ACTIVE_NOT_RECRUITING
-NCT02500381,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Completion Date,2025-10-16,2025-10-17
-NCT02500381,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Last Update Post Date,2025-11-18,2025-09-23
 NCT02606136,2026-01-19 07:34:29.862670,2026-01-12 07:33:06.704464,Lead Sponsor Name,Kyntra Bio,FibroGen
 NCT02789059,2025-12-22 07:29:25.356859,2025-12-15 07:30:03.335635,Overall Status,COMPLETED,UNKNOWN
 NCT02789059,2025-12-22 07:29:25.356859,2025-12-15 07:30:03.335635,Enrollment Count,17.0,170.0
@@ -15,6 +8,9 @@ NCT02789059,2025-12-22 07:29:25.356859,2025-12-15 07:30:03.335635,Primary Comple
 NCT02789059,2025-12-22 07:29:25.356859,2025-12-15 07:30:03.335635,Completion Date,2017-12-01,2017-07-01
 NCT02789059,2025-12-22 07:29:25.356859,2025-12-15 07:30:03.335635,Last Update Post Date,2025-12-16,2017-05-19
 NCT03368742,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-03,2025-10-31
+NCT03373968,2026-01-26 07:33:43.630593,2026-01-19 07:34:29.862670,Overall Status,RECRUITING,ACTIVE_NOT_RECRUITING
+NCT03373968,2026-01-26 07:33:43.630593,2026-01-19 07:34:29.862670,Last Update Post Date,2026-01-21,2025-04-30
+NCT03863119,2026-01-26 07:33:43.630593,2026-01-19 07:34:29.862670,Last Update Post Date,2026-01-20,2025-09-30
 NCT04281485,2026-01-05 07:33:50.193066,2025-12-29 07:31:30.362548,Last Update Post Date,2026-01-02,2025-10-20
 NCT04371666,2026-01-19 07:34:29.862670,2026-01-12 07:33:06.704464,Lead Sponsor Name,Kyntra Bio,FibroGen
 NCT04626674,2026-01-05 07:33:50.193066,2025-12-29 07:31:30.362548,Overall Status,RECRUITING,ACTIVE_NOT_RECRUITING
@@ -43,7 +39,6 @@ NCT05291091,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Start Date,202
 NCT05291091,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Primary Completion Date,2026-09-01,2026-08-01
 NCT05291091,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Completion Date,2026-09-01,2026-08-01
 NCT05291091,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-01,2025-11-03
-NCT05558813,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Last Update Post Date,2025-11-20,2025-02-03
 NCT05683379,2025-12-01 07:28:07.827306,2025-11-24 07:25:31.042479,Brief Title,AFFINITY BEYOND: Anti-AAV8 Antibody Assessment Study of Males With DMD,AFFINITY BEYOND: Anti-AAV8 Antibody Assessment Study of Boys With DMD
 NCT05683379,2025-12-01 07:28:07.827306,2025-11-24 07:25:31.042479,Maximum Age,25 Years,11 Years
 NCT05683379,2025-12-01 07:28:07.827306,2025-11-24 07:25:31.042479,Std Age,"CHILD, ADULT",CHILD
@@ -64,11 +59,6 @@ NCT06138639,2025-12-22 07:29:25.356859,2025-12-15 07:30:03.335635,Last Update Po
 NCT06138639,2025-12-29 07:31:30.362548,2025-12-22 07:29:25.356859,Last Update Post Date,2025-12-22,2025-12-17
 NCT06147414,2026-01-19 07:34:29.862670,2026-01-12 07:33:06.704464,Condition,"Invasive PreNatal Diagnosis in a Context of Family History of Single-gene Disorders, Including, Sickle Cell Disease, Cystic Fibrosis, Fragile X Syndrome, Proximal Spinal Muscular Atrophy, Myotonic Dystrophy, Muscular Dystrophy, Duchenne, Muscular Dystrophy, Becker, Neurofibromatosis-Noonan Syndrome, Huntington Disease, Hemophilia A, Hemophilia B, MODY2 Diabetes, X-Linked Hydrocephalus, Autosomal Recessive Polycystic Kidney Disease","Invasive PreNatal Diagnosis in a Context of Family History of Single-gene Disorders, Including, Sickle Cell Disease, Cystic Fibrosis, Fragile X Syndrome, Proximal Spinal Muscular Atrophy, Myotonic Dystrophy, Muscular Dystrophy, Duchenne, Muscular Dystrophy, Becker, Neurofibromatosis-Noonan Syndrome, Huntington Disease, Hemophilia a, Hemophilia B, MODY2 Diabetes, X-Linked Hydrocephalus, Autosomal Recessive Polycystic Kidney Disease"
 NCT06147414,2026-01-19 07:34:29.862670,2026-01-12 07:33:06.704464,Last Update Post Date,2026-01-15,2024-11-07
-NCT06241950,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Overall Status,TERMINATED,ENROLLING_BY_INVITATION
-NCT06241950,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Enrollment Count,5.0,6.0
-NCT06241950,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Primary Completion Date,2025-10-10,2026-01-31
-NCT06241950,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Completion Date,2025-10-10,2027-10-31
-NCT06241950,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Last Update Post Date,2025-11-20,2025-03-03
 NCT06270719,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-02,2025-10-07
 NCT06363357,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Primary Outcome Measure,"Performance of the upper limb module 2.0 (PUL 2.0), Active Range of motion, Functional workspace, Goal Attainment Scale (GAS), Surface electromyography (sEMG), Heart rate, Blood pressure, Numeral Rating Scale for Pain, Box and block test","Performance of the upper limb module 2.0 (PUL 2.0), Active Range of motion, Functional workspace, Goal Attainment Scale (GAS), Surface electromyography (sEMG)"
 NCT06363357,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-03,2025-07-11
@@ -76,31 +66,11 @@ NCT06450639,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Primary Comple
 NCT06450639,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Completion Date,2028-06-30,2027-11-15
 NCT06450639,2025-12-08 07:29:06.702534,2025-12-01 07:28:07.827306,Last Update Post Date,2025-12-04,2025-11-06
 NCT06450639,2026-01-12 07:33:06.704464,2026-01-05 07:33:50.193066,Last Update Post Date,2026-01-05,2025-12-04
-NCT06682585,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Overall Status,COMPLETED,NOT_YET_RECRUITING
-NCT06682585,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Enrollment Count,9.0,10.0
-NCT06682585,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Last Update Post Date,2025-11-21,2024-11-12
 NCT06713135,2025-12-22 07:29:25.356859,2025-12-15 07:30:03.335635,Overall Status,ACTIVE_NOT_RECRUITING,RECRUITING
 NCT06713135,2025-12-22 07:29:25.356859,2025-12-15 07:30:03.335635,Last Update Post Date,2025-12-15,2024-12-03
 NCT06713135,2026-01-12 07:33:06.704464,2026-01-05 07:33:50.193066,Last Update Post Date,2026-01-09,2025-12-15
 NCT06817382,2026-01-05 07:33:50.193066,2025-12-29 07:31:30.362548,Last Update Post Date,2025-12-30,2025-11-07
 NCT06817382,2026-01-19 07:34:29.862670,2026-01-12 07:33:06.704464,Last Update Post Date,2026-01-15,2025-12-30
-NCT07037862,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Brief Summary,"This is a study of the investigational medicine ENTR-601-44 in participants who have Duchenne muscular dystrophy (DMD), a rare genetic condition.
-The researchers want to: Test how safe ENTR-601-44 is, learn about any side effects, and look at the potential positive effects of ENTR-601-44, compared to placebo. Placebo looks like the investigational medicine but does not contain any active ingredient. In this summary ENTR-601-44 and placebo are both called study treatments.
-The study has 2 parts: Part A: to evaluate if ENTR-601-44 is safe and to determine the best dose of ENTR-601-44 for Part B. Part B: to further evaluate the effect and safety of ENTR-601-44 at the dose determined in Part A.
-Participants will be able to roll into an open-label treatment period during which the safety and efficacy of extended dosing will be evaluated.
-Participants will:
-* Receive study treatment in the form of multiple intravenous (IV) infusions (slow injection) into a vein over the course of several weeks in Part A and in Part B
-* Visit the clinic regularly for checkups and tests such as: blood and urine tests, physical examinations, questionnaires, and exercise tests. Participants will have a muscle biopsy at the beginning of their participation and after their last dose to allow researchers to compare whether there have been changes in the muscle as a result of the study drug.
-Participants are allowed to continue receiving their standard of care therapy for DMD during the study, as long as their health remains stable.","This is a study of the investigational medicine ENTR-601-44 in participants who have Duchenne muscular dystrophy (DMD), a rare genetic condition.
-The researchers want to: Test how safe ENTR-601-44 is, learn about any side effects, and look at the potential positive effects of ENTR-601-44, compared to placebo. Placebo looks like the investigational medicine but does not contain any active ingredient. In this summary ENTR-601-44 and placebo are both called study treatments.
-The study has 2 parts: Part A: to evaluate if ENTR-601-44 is safe and to determine the best dose of ENTR-601-44 for Part B. Part B: to further evaluate the effect and safety of ENTR-601-44 at the dose determined in Part A.
-Participants will:
-* Receive study treatment in the form of multiple intravenous (IV) infusions (slow injection) into a vein over the course of several weeks in Part A and in Part B
-* Visit the clinic regularly for checkups and tests such as: blood and urine tests, physical examinations, questionnaires, and exercise tests. Participants will have a muscle biopsy at the beginning of their participation and after their last dose to allow researchers to compare whether there have been changes in the muscle as a result of the study drug.
-Participants are allowed to continue receiving their standard of care therapy for DMD during the study, as long as their health remains stable."
-NCT07037862,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Primary Outcome Measure,Number of participants with Treatment Emergent Adverse Events (TEAEs) according to study protocol (Part A and OL Period),Number of participants with Treatment Emergent Adverse Events (TEAEs) according to study protocol (Part A)
-NCT07037862,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Secondary Outcome Measure,"Plasma, muscle, and urine concentration of ENTR-601-44 and its final metabolite (Part A and OL Period), Change from baseline to End of Part A in dystrophin by Western blot from muscle biopsy (Part A), Change from baseline to End of Part A in dystrophin expression and localization from muscle biopsy (Part A), Percent change from baseline to End of Part A in exon 44 skipping measured in muscle biopsy at End of Study (Part A), Anti-drug antibody (ADA) and anti-dystrophin antibody in serum (Part A and OL Period), Change from baseline to End of OL Period in 10-Meter Walk/Run (10MWR) (Part A and OL Period), Change from baseline to End of OL Period in Timed Rise from Floor (Part A and OL Period), Change from baseline to End of OL Period in Timed 4-Stair Climb (4SC) (Part A and OL Period), Change from baseline to End of OL Period in 95th centile Stride Velocity (SV95C) (Part A and OL Period), Change from baseline to End of OL Period in North Star Ambulatory Assessment (NSAA) (Part A and OL Period), Change from baseline to End of OL Period in Performance of the Upper Limb v2.0 (PUL 2.0) (Part A and OL Period)","Plasma, muscle, and urine concentration of ENTR-601-44 and its final metabolite (Part A), Change from baseline in dystrophin by Western blot from muscle biopsy at End of Study (Part A), Change from baseline in dystrophin expression and localization from muscle biopsy at End of Study (Part A), Percent change from baseline in exon 44 skipping measured in muscle biopsy at End of Study (Part A), Anti-drug antibody (ADA) and anti-dystrophin antibody in serum (Part A)"
-NCT07037862,2025-11-24 07:25:31.042479,2025-11-17 07:25:14.599826,Last Update Post Date,2025-11-21,2025-07-01
 NCT07037862,2025-12-22 07:29:25.356859,2025-12-15 07:30:03.335635,Primary Outcome Measure,Number of participants with Treatment Emergent Adverse Events (TEAEs) according to study protocol (Part A and Open Label (OL) Period),Number of participants with Treatment Emergent Adverse Events (TEAEs) according to study protocol (Part A and OL Period)
 NCT07037862,2025-12-22 07:29:25.356859,2025-12-15 07:30:03.335635,Secondary Outcome Measure,"Plasma, muscle, and urine concentration of ENTR-601-44 and its final metabolite (Part A and Open Label (OL) Period), Change from baseline to End of Part A in dystrophin by Western blot from muscle biopsy (Part A), Change from baseline to End of Part A in dystrophin expression and localization from muscle biopsy (Part A), Percent change from baseline to End of Part A in exon 44 skipping measured in muscle biopsy at End of Study (Part A), Anti-drug antibody (ADA) and anti-dystrophin antibody in serum (Part A and OL Period), Change from baseline to End of OL Period in 10-Meter Walk/Run (10MWR) (Part A and OL Period), Change from baseline to End of OL Period in Timed Rise from Floor (Part A and OL Period), Change from baseline to End of OL Period in Timed 4-Stair Climb (4SC) (Part A and OL Period), Change from baseline to End of OL Period in 95th centile Stride Velocity (SV95C) (Part A and OL Period), Change from baseline to End of OL Period in North Star Ambulatory Assessment (NSAA) (Part A and OL Period), Change from baseline to End of OL Period in Performance of the Upper Limb v2.0 (PUL 2.0) (Part A and OL Period)","Plasma, muscle, and urine concentration of ENTR-601-44 and its final metabolite (Part A and OL Period), Change from baseline to End of Part A in dystrophin by Western blot from muscle biopsy (Part A), Change from baseline to End of Part A in dystrophin expression and localization from muscle biopsy (Part A), Percent change from baseline to End of Part A in exon 44 skipping measured in muscle biopsy at End of Study (Part A), Anti-drug antibody (ADA) and anti-dystrophin antibody in serum (Part A and OL Period), Change from baseline to End of OL Period in 10-Meter Walk/Run (10MWR) (Part A and OL Period), Change from baseline to End of OL Period in Timed Rise from Floor (Part A and OL Period), Change from baseline to End of OL Period in Timed 4-Stair Climb (4SC) (Part A and OL Period), Change from baseline to End of OL Period in 95th centile Stride Velocity (SV95C) (Part A and OL Period), Change from baseline to End of OL Period in North Star Ambulatory Assessment (NSAA) (Part A and OL Period), Change from baseline to End of OL Period in Performance of the Upper Limb v2.0 (PUL 2.0) (Part A and OL Period)"
 NCT07037862,2025-12-22 07:29:25.356859,2025-12-15 07:30:03.335635,Last Update Post Date,2025-12-15,2025-11-21
